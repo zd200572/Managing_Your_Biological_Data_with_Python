@@ -30,3 +30,5 @@ for row in table[1:]:
 for row in table_nested_dict:
     print(row, '\n')
 
+for row in table_nested_dict:
+    print(row[0]['protein'])
