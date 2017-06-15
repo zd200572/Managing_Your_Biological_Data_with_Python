@@ -1,0 +1,7 @@
+seq = ''
+
+directory : module
+
+filename = []
+
+sequences = {}
