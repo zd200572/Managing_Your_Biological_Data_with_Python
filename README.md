@@ -1,2 +1,0 @@
-# Managing_Your_Biological_Data_with_Python
-Python生物信息学数据管理习题
