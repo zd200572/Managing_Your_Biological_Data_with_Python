@@ -1,0 +1,719 @@
+1
+PMID:19367912
+OWN:NLM
+STAT:MEDLINE
+DA:20090413
+DCOM:20090427
+LR:20131121
+IS:1520-6106 (Print) 1520-5207 (Linking)
+VI:112
+IP:51
+DP:2008 Dec 25
+TI:Substrate-assisted catalysis in the aminoacyl transfer mechanism of histidyl-tRNA synthetase: a density functional theory study.
+PG:16874-82
+LID:10.1021/jp807104b [doi]
+AB:Density functional theory methods have been used to investigate possible mechanisms of the second half-reaction of aminoacylation catalyzed by histidyl-tRNA synthetase: transfer of the aminoacyl moiety from histidyl-adenylate to the terminal adenosine (A76) of tRNA. The properties of the two mechanistically important nonbridging phosphate oxygens of the histidyl-adenylate in the substrate-bound complex were first considered. It is found that the nonbridging pro-S oxygen is slightly more basic than the pro-R oxygen due to the fact that the former is involved in a weaker hydrogen bonding network than the latter. Three possible mechanisms in which the proton of the 3'-OH group of A76 transfers to the bridging phosphate oxygen and the nonbridging pro-R and -S oxygens were then investigated. When the bridging phosphate oxygen acts as the base, the reaction occurs via a four-membered ring transition structure with a considerably high barrier. When the pro-R oxygen acts as the base, a concerted mechanism was again found. However, it proceeds via a six-membered ring transition structure. In contrast, when the pro-S oxygen acts as a base, an associative stepwise mechanism was found which, furthermore, also had the lowest barrier of the three mechanisms obtained. Comparisons of these three mechanisms and reasons for the differences in barriers are also provided.
+FAU:['Liu, Haining', 'Gauld, James W']
+AU:['Liu H', 'Gauld JW']
+AD:Department of Chemistry and Biochemistry, University of Windsor, Windsor, Ontario N9B 3P4, Canada.
+LA:['eng']
+PT:['Journal Article', "Research Support, Non-U.S. Gov't"]
+PL:United States
+TA:J Phys Chem B
+JT:The journal of physical chemistry. B
+JID:101157530
+RN:['EC 6.1.1.21 (Histidine-tRNA Ligase)', 'S88TT14065 (Oxygen)']
+SB:IM
+MH:['Biocatalysis', 'Histidine-tRNA Ligase/chemistry/*metabolism', 'Hydrogen Bonding', 'Models, Molecular', 'Oxygen/chemistry', 'Substrate Specificity']
+EDAT:2009/04/16 09:00
+MHDA:2009/04/28 09:00
+CRDT:['2009/04/16 09:00']
+AID:['10.1021/jp807104b [pii]', '10.1021/jp807104b [doi]']
+PST:ppublish
+SO:J Phys Chem B. 2008 Dec 25;112(51):16874-82. doi: 10.1021/jp807104b.
+2
+PMID:19351057
+OWN:NLM
+STAT:MEDLINE
+DA:20090408
+DCOM:20090526
+LR:20150803
+VI:80
+IP:6
+DP:2008 Nov-Dec
+TI:[tRNA-dependent editing of errors by prolyl-tRNA synthetase from bacteria Enterococcus faecalis].
+PG:52-9
+AB:Maintenance of amino acid specificity by aminoacyl-tRNA synthetases, particularly prolyl-tRNA synthetase, requires for not only specific recognition of homologic amino acid, but also missynthesized products hydrolysis, known as editing. The speeding-up of the enzymatic hydrolysis of missynthesized alanyl adenylate by bacteria Enterococcus faecalis prolyl-tRNA synthetase in the presence of tRNAPro, and also importance for this function of 2'- and 3'-hydroxyle groups of tRNA 3'-terminal adenosine ribose is shown in the work. Furthermore, results are shown, that support the absence of editing (INS) domain role in alanyl adenylate hydrolysis. Possible significance of tRNA-dependent alanyl adenylate hydrolysis by prolyl-tRNA synthetase for prolyl-tRNAPro synthesis specificity maintenance is discussed.
+FAU:['Boiarshin, K S', 'Kriklivyi, I A', 'Tukalo, M A']
+AU:['Boiarshin KS', 'Kriklivyi IA', 'Tukalo MA']
+LA:['rus']
+PT:['English Abstract', 'Journal Article']
+PL:Ukraine
+TA:Ukr Biokhim Zh (1999)
+JT:Ukrains'kyi biokhimichnyi zhurnal (1999 )
+JID:101657175
+RN:['8L70Q75FXE (Adenosine Triphosphate)', '9014-25-9 (RNA, Transfer)', 'EC 6.1.1.- (Amino Acyl-tRNA Synthetases)', 'EC 6.1.1.15 (prolyl T RNA synthetase)']
+SB:IM
+MH:['Adenosine Triphosphate/metabolism', 'Amino Acyl-tRNA Synthetases/*antagonists & inhibitors/*genetics', 'Enterococcus faecalis/*enzymology/genetics', 'Hydrolysis', 'Mutagenesis, Site-Directed', 'Protein Structure, Secondary', '*RNA Editing', 'RNA, Transfer/*genetics', 'Rhodopseudomonas/enzymology/genetics', '*Transfer RNA Aminoacylation']
+EDAT:2009/04/09 09:00
+MHDA:2009/05/27 09:00
+CRDT:['2009/04/09 09:00']
+PST:ppublish
+SO:Ukr Biokhim Zh (1999). 2008 Nov-Dec;80(6):52-9.
+3
+PMID:19215761
+OWN:NLM
+STAT:MEDLINE
+DA:20090213
+DCOM:20090326
+LR:20161122
+IS:1557-7988 (Electronic) 0076-6879 (Linking)
+VI:449
+DP:2008
+TI:Chapter 11. Identification and analysis of tRNAs that are degraded in Saccharomyces cerevisiae due to lack of modifications.
+PG:221-37
+LID:10.1016/S0076-6879(08)02411-7 [doi]
+AB:Mounting evidence shows that tRNA modifications play crucial roles in the maintenance of wild-type levels of several tRNA species. This chapter describes a generalized framework in which to study tRNA turnover in the yeast Saccharomyces cerevisiae as a consequence of a defect in tRNA modification status. It describes several approaches for the identification of tRNA species that are reduced as a consequence of a modification defect, methods for analysis of the rate of tRNA loss and analysis of its aminoacylation, and methods for initial characterization of tRNA turnover. These approaches have been used successfully for several modification defects that result in tRNA turnover.
+FAU:['Chernyakov, Irina', 'Baker, Melanie A', 'Grayhack, Elizabeth J', 'Phizicky, Eric M']
+AU:['Chernyakov I', 'Baker MA', 'Grayhack EJ', 'Phizicky EM']
+AD:Department of Biochemistry and Biophysics, University of Rochester School of Medicine, Rochester, New York, USA.
+LA:['eng']
+GR:['R01 GM052347/GM/NIGMS NIH HHS/United States', 'GM52347/GM/NIGMS NIH HHS/United States', 'T32 GM068411-04/GM/NIGMS NIH HHS/United States', 'T32 GM068411/GM/NIGMS NIH HHS/United States', 'R01 GM052347-14/GM/NIGMS NIH HHS/United States', '5T32 GM068411/GM/NIGMS NIH HHS/United States']
+PT:['Journal Article', 'Research Support, N.I.H., Extramural']
+PL:United States
+TA:Methods Enzymol
+JT:Methods in enzymology
+JID:0212271
+RN:['9014-25-9 (RNA, Transfer)']
+SB:IM
+MH:['Blotting, Northern', 'Oligonucleotide Array Sequence Analysis', 'RNA Stability/*genetics', 'RNA, Transfer/*genetics', 'Saccharomyces cerevisiae/genetics']
+PMC:PMC2788775
+MID:['NIHMS159968']
+OID:['NLM: NIHMS159968', 'NLM: PMC2788775']
+EDAT:2009/02/14 09:00
+MHDA:2009/03/27 09:00
+CRDT:['2009/02/14 09:00']
+AID:['S0076-6879(08)02411-7 [pii]', '10.1016/S0076-6879(08)02411-7 [doi]']
+PST:ppublish
+SO:Methods Enzymol. 2008;449:221-37. doi: 10.1016/S0076-6879(08)02411-7.
+4
+PMID:19118381
+OWN:NLM
+STAT:MEDLINE
+DA:20090226
+DCOM:20090407
+LR:20161122
+IS:1476-4687 (Electronic) 0028-0836 (Linking)
+VI:457
+IP:7233
+DP:2009 Feb 26
+TI:Pyrrolysyl-tRNA synthetase-tRNA(Pyl) structure reveals the molecular basis of orthogonality.
+PG:1163-7
+LID:10.1038/nature07611 [doi]
+AB:Pyrrolysine (Pyl), the 22nd natural amino acid, is genetically encoded by UAG and inserted into proteins by the unique suppressor tRNA(Pyl) (ref. 1). The Methanosarcinaceae produce Pyl and express Pyl-containing methyltransferases that allow growth on methylamines. Homologous methyltransferases and the Pyl biosynthetic and coding machinery are also found in two bacterial species. Pyl coding is maintained by pyrrolysyl-tRNA synthetase (PylRS), which catalyses the formation of Pyl-tRNA(Pyl) (refs 4, 5). Pyl is not a recent addition to the genetic code. PylRS was already present in the last universal common ancestor; it then persisted in organisms that utilize methylamines as energy sources. Recent protein engineering efforts added non-canonical amino acids to the genetic code. This technology relies on the directed evolution of an 'orthogonal' tRNA synthetase-tRNA pair in which an engineered aminoacyl-tRNA synthetase (aaRS) specifically and exclusively acylates the orthogonal tRNA with a non-canonical amino acid. For Pyl the natural evolutionary process developed such a system some 3 billion years ago. When transformed into Escherichia coli, Methanosarcina barkeri PylRS and tRNA(Pyl) function as an orthogonal pair in vivo. Here we show that Desulfitobacterium hafniense PylRS-tRNA(Pyl) is an orthogonal pair in vitro and in vivo, and present the crystal structure of this orthogonal pair. The ancient emergence of PylRS-tRNA(Pyl) allowed the evolution of unique structural features in both the protein and the tRNA. These structural elements manifest an intricate, specialized aaRS-tRNA interaction surface that is highly distinct from those observed in any other known aaRS-tRNA complex; it is this general property that underlies the molecular basis of orthogonality.
+FAU:['Nozawa, Kayo', "O'Donoghue, Patrick", 'Gundllapalli, Sarath', 'Araiso, Yuhei', 'Ishitani, Ryuichiro', 'Umehara, Takuya', 'Soll, Dieter', 'Nureki, Osamu']
+AU:['Nozawa K', "O'Donoghue P", 'Gundllapalli S', 'Araiso Y', 'Ishitani R', 'Umehara T', 'Soll D', 'Nureki O']
+AD:Department of Biological Information, Graduate School of Bioscience and Biotechnology, Tokyo Institute of Technology, B34 4259 Nagatsuta-cho, Midori-ku, Yokohama-shi, Kanagawa 226-8501, Japan.
+LA:['eng']
+SI:['PDB/2ZNI', 'PDB/2ZNJ']
+GR:['R01 GM022854/GM/NIGMS NIH HHS/United States', 'R01 GM022854-33/GM/NIGMS NIH HHS/United States']
+PT:['Journal Article', "Research Support, Non-U.S. Gov't", "Research Support, U.S. Gov't, Non-P.H.S."]
+DEP:20081231
+PL:England
+TA:Nature
+JT:Nature
+JID:0410462
+RN:['0 (RNA, Transfer, Amino Acid-Specific)', '0 (pyrrolysine)', 'EC 6.1.1.- (Amino Acyl-tRNA Synthetases)', 'K3Z4F929H6 (Lysine)']
+SB:IM
+MH:['Amino Acyl-tRNA Synthetases/*chemistry/genetics/*metabolism', 'Aminoacylation', 'Crystallography, X-Ray', 'Desulfitobacterium/*enzymology/genetics', 'Escherichia coli/genetics', 'Lysine/*analogs & derivatives/biosynthesis/genetics/metabolism', 'Methanosarcina barkeri/enzymology/genetics', 'Models, Molecular', 'RNA, Transfer, Amino Acid-Specific/genetics/metabolism', 'Structural Homology, Protein']
+PMC:PMC2648862
+MID:['NIHMS77751']
+OID:['NLM: NIHMS77751', 'NLM: PMC2648862']
+EDAT:2009/01/02 09:00
+MHDA:2009/04/08 09:00
+CRDT:['2009/01/02 09:00']
+PHST:['2008/02/08 [received]', '2008/11/04 [accepted]']
+AID:['nature07611 [pii]', '10.1038/nature07611 [doi]']
+PST:ppublish
+SO:Nature. 2009 Feb 26;457(7233):1163-7. doi: 10.1038/nature07611. Epub 2008 Dec 31.
+5
+PMID:19100747
+OWN:NLM
+STAT:MEDLINE
+DA:20090202
+DCOM:20090327
+LR:20131121
+IS:1089-8638 (Electronic) 0022-2836 (Linking)
+VI:385
+IP:5
+DP:2009 Feb 06
+TI:Recognition of non-alpha-amino substrates by pyrrolysyl-tRNA synthetase.
+PG:1352-60
+LID:10.1016/j.jmb.2008.11.059 [doi]
+AB:Pyrrolysyl-tRNA synthetase (PylRS), an aminoacyl-tRNA synthetase (aaRS) recently found in some methanogenic archaea and bacteria, recognizes an unusually large lysine derivative, L-pyrrolysine, as the substrate, and attaches it to the cognate tRNA (tRNA(Pyl)). The PylRS-tRNA(Pyl) pair interacts with none of the endogenous aaRS-tRNA pairs in Escherichia coli, and thus can be used as a novel aaRS-tRNA pair for genetic code expansion. The crystal structures of the Methanosarcina mazei PylRS revealed that it has a unique, large pocket for amino acid binding, and the wild type M. mazei PylRS recognizes the natural lysine derivative as well as many lysine analogs, including N(epsilon)-(tert-butoxycarbonyl)-L-lysine (Boc-lysine), with diverse side chain sizes and structures. Moreover, the PylRS only loosely recognizes the alpha-amino group of the substrate, whereas most aaRSs, including the structurally and genetically related phenylalanyl-tRNA synthetase (PheRS), strictly recognize the main chain groups of the substrate. We report here that wild type PylRS can recognize substrates with a variety of main-chain alpha-groups: alpha-hydroxyacid, non-alpha-amino-carboxylic acid, N(alpha)-methyl-amino acid, and D-amino acid, each with the same side chain as that of Boc-lysine. In contrast, PheRS recognizes none of these amino acid analogs. By expressing the wild type PylRS and its cognate tRNA(Pyl) in E. coli in the presence of the alpha-hydroxyacid analog of Boc-lysine (Boc-LysOH), the amber codon (UAG) was recoded successfully as Boc-LysOH, and thus an ester bond was site-specifically incorporated into a protein molecule. This PylRS-tRNA(Pyl) pair is expected to expand the backbone diversity of protein molecules produced by both in vivo and in vitro ribosomal translation.
+FAU:['Kobayashi, Takatsugu', 'Yanagisawa, Tatsuo', 'Sakamoto, Kensaku', 'Yokoyama, Shigeyuki']
+AU:['Kobayashi T', 'Yanagisawa T', 'Sakamoto K', 'Yokoyama S']
+AD:RIKEN Systems and Structural Biology Center, Yokohama, Japan.
+LA:['eng']
+PT:['Journal Article', "Research Support, Non-U.S. Gov't"]
+DEP:20081211
+PL:England
+TA:J Mol Biol
+JT:Journal of molecular biology
+JID:2985088R
+RN:['0 (pyrrolysine)', 'EC 6.1.1.- (Amino Acyl-tRNA Synthetases)', 'K3Z4F929H6 (Lysine)']
+SB:IM
+MH:['Amino Acyl-tRNA Synthetases/*chemistry/genetics', 'Binding Sites', 'Lysine/*analogs & derivatives/chemistry/metabolism', 'Methanosarcina/*enzymology/genetics', 'Models, Molecular', 'Substrate Specificity', 'Transfer RNA Aminoacylation']
+EDAT:2008/12/23 09:00
+MHDA:2009/03/28 09:00
+CRDT:['2008/12/23 09:00']
+PHST:['2008/10/21 [received]', '2008/11/26 [accepted]']
+AID:['S0022-2836(08)01498-8 [pii]', '10.1016/j.jmb.2008.11.059 [doi]']
+PST:ppublish
+SO:J Mol Biol. 2009 Feb 6;385(5):1352-60. doi: 10.1016/j.jmb.2008.11.059. Epub 2008 Dec 11.
+6
+PMID:19098308
+OWN:NLM
+STAT:MEDLINE
+DA:20090209
+DCOM:20090331
+LR:20170220
+IS:0021-9258 (Print) 0021-9258 (Linking)
+VI:284
+IP:7
+DP:2009 Feb 13
+TI:Thermodynamic analysis reveals a temperature-dependent change in the catalytic mechanism of bacillus stearothermophilus tyrosyl-tRNA synthetase.
+PG:4179-90
+LID:10.1074/jbc.M808500200 [doi]
+AB:Catalysis of tRNA(Tyr) aminoacylation by tyrosyl-tRNA synthetase can be divided into two steps. In the first step, tyrosine is activated by ATP to form the tyrosyl-adenylate intermediate. In the second step, the tyrosyl moiety is transferred to the 3' end of tRNA. To investigate the roles that enthalpic and entropic contributions play in catalysis by Bacillus stearothermophilus tyrosyl-tRNA synthetase (TyrRS), the temperature dependence for the activation of tyrosine and subsequent transfer to tRNA(Tyr) has been determined using single turnover kinetic methods. A van't Hoff plot for binding of ATP to the TyrRS.Tyr complex reveals three distinct regions. Particularly striking is the change occurring at 25 degrees C, where the values of DeltaH(0) and DeltaS(0) go from -144 kJ/mol and -438 J/mol K below 25 degrees C to +137.9 kJ/mol and +507 J/mol K above 25 degrees C. Nonlinear Eyring and van't Hoff plots are also observed for formation of the TyrRS.[Tyr-ATP](double dagger) and TyrRS.Tyr-AMP complexes. Comparing the van't Hoff plots for the binding of ATP to tyrosyl-tRNA synthetase in the absence and presence of saturating tyrosine concentrations indicates that the temperature-dependent changes in DeltaH(0) and DeltaS(0) for the binding of ATP only occur when tyrosine is bound to the enzyme. Previous investigations revealed a similar synergistic interaction between the tyrosine and ATP substrates when the "KMSKS" signature sequence is deleted or replaced by a nonfunctional sequence. We propose that the temperature-dependent changes in DeltaH(0) and DeltaS(0) are because of the KMSKS signature sequence being conformationally constrained and unable to disrupt this synergistic interaction below 25 degrees C.
+FAU:['Sharma, Gyanesh', 'First, Eric A']
+AU:['Sharma G', 'First EA']
+AD:Department of Biochemistry and Molecular Biology, Louisiana State University Health Sciences Center, Shreveport, Louisiana 71130, USA.
+LA:['eng']
+GR:['R01 GM068070/GM/NIGMS NIH HHS/United States', 'GM68070/GM/NIGMS NIH HHS/United States']
+PT:['Journal Article', 'Research Support, N.I.H., Extramural']
+DEP:20081220
+PL:United States
+TA:J Biol Chem
+JT:The Journal of biological chemistry
+JID:2985121R
+RN:['0 (Bacterial Proteins)', '0 (RNA, Bacterial)', '0 (RNA, Transfer, Tyr)', '42HK56048U (Tyrosine)', '8L70Q75FXE (Adenosine Triphosphate)', 'EC 6.1.1.1 (Tyrosine-tRNA Ligase)']
+SB:IM
+MH:['Adenosine Triphosphate/*chemistry/metabolism', 'Bacterial Proteins/*chemistry/metabolism', 'Geobacillus stearothermophilus/*enzymology', 'Hot Temperature', 'Kinetics', 'Protein Binding', 'RNA, Bacterial/*chemistry/metabolism', 'RNA, Transfer, Tyr/*chemistry/metabolism', 'Tyrosine/*chemistry/metabolism', 'Tyrosine-tRNA Ligase/*chemistry/metabolism']
+PMC:PMC2640972
+OID:['NLM: PMC2640972']
+EDAT:2008/12/23 09:00
+MHDA:2009/04/01 09:00
+CRDT:['2008/12/23 09:00']
+AID:['M808500200 [pii]', '10.1074/jbc.M808500200 [doi]']
+PST:ppublish
+SO:J Biol Chem. 2009 Feb 13;284(7):4179-90. doi: 10.1074/jbc.M808500200. Epub 2008 Dec 20.
+7
+PMID:19092806
+OWN:NLM
+STAT:MEDLINE
+DA:20090108
+DCOM:20090128
+LR:20161122
+IS:1476-4687 (Electronic) 0028-0836 (Linking)
+VI:457
+IP:7226
+DP:2009 Jan 08
+TI:Quality control by the ribosome following peptide bond formation.
+PG:161-6
+LID:10.1038/nature07582 [doi]
+AB:The overall fidelity of protein synthesis has been thought to rely on the combined accuracy of two basic processes: the aminoacylation of transfer RNAs with their cognate amino acid by the aminoacyl-tRNA synthetases, and the selection of cognate aminoacyl-tRNAs by the ribosome in cooperation with the GTPase elongation factor EF-Tu. These two processes, which together ensure the specific acceptance of a correctly charged cognate tRNA into the aminoacyl (A) site, operate before peptide bond formation. Here we report the identification of an additional mechanism that contributes to high fidelity protein synthesis after peptidyl transfer, using a well-defined in vitro bacterial translation system. In this retrospective quality control step, the incorporation of an amino acid from a non-cognate tRNA into the growing polypeptide chain leads to a general loss of specificity in the A site of the ribosome, and thus to a propagation of errors that results in abortive termination of protein synthesis.
+FAU:['Zaher, Hani S', 'Green, Rachel']
+AU:['Zaher HS', 'Green R']
+AD:Howard Hughes Medical Institute, Department of Molecular Biology and Genetics, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205, USA.
+LA:['eng']
+GR:['R01 GM059425/GM/NIGMS NIH HHS/United States', 'R01 GM059425-09/GM/NIGMS NIH HHS/United States', 'Howard Hughes Medical Institute/United States']
+PT:['Journal Article', 'Research Support, N.I.H., Extramural', "Research Support, Non-U.S. Gov't"]
+DEP:20081217
+PL:England
+TA:Nature
+JT:Nature
+JID:0410462
+RN:['0 (Anticodon)', '0 (Codon)', '0 (Escherichia coli Proteins)', '0 (Peptide Termination Factors)', '0 (prfB protein, E coli)', '0 (prfC protein, E coli)', '9014-25-9 (RNA, Transfer)']
+SB:IM
+CIN:['Nature. 2009 Jan 8;457(7226):157-8. PMID: 19129838']
+MH:['Aminoacylation', 'Anticodon/genetics', 'Base Pair Mismatch/genetics', 'Biocatalysis', 'Codon/genetics', 'Escherichia coli/enzymology/genetics/metabolism', 'Escherichia coli Proteins/metabolism', '*Peptide Chain Termination, Translational', 'Peptide Termination Factors/metabolism', '*Protein Biosynthesis', 'RNA, Transfer/genetics/metabolism', 'Ribosomes/chemistry/genetics/*metabolism', 'Substrate Specificity']
+PMC:PMC2805954
+MID:['NIHMS164658']
+OID:['NLM: NIHMS164658', 'NLM: PMC2805954']
+EDAT:2008/12/19 09:00
+MHDA:2009/01/29 09:00
+CRDT:['2008/12/19 09:00']
+PHST:['2008/07/18 [received]', '2008/10/24 [accepted]']
+AID:['nature07582 [pii]', '10.1038/nature07582 [doi]']
+PST:ppublish
+SO:Nature. 2009 Jan 8;457(7226):161-6. doi: 10.1038/nature07582. Epub 2008 Dec 17.
+8
+PMID:19091122
+OWN:NLM
+STAT:MEDLINE
+DA:20090127
+DCOM:20090408
+LR:20170220
+IS:1745-6150 (Electronic) 1745-6150 (Linking)
+VI:3
+DP:2008 Dec 17
+TI:Evidence from glycine transfer RNA of a frozen accident at the dawn of the genetic code.
+PG:53
+LID:10.1186/1745-6150-3-53 [doi]
+AB:BACKGROUND: Transfer RNA (tRNA) is the means by which the cell translates DNA sequence into protein according to the rules of the genetic code. A credible proposition is that tRNA was formed from the duplication of an RNA hairpin half the length of the contemporary tRNA molecule, with the point at which the hairpins were joined marked by the canonical intron insertion position found today within tRNA genes. If these hairpins possessed a 3'-CCA terminus with different combinations of stem nucleotides (the ancestral operational RNA code), specific aminoacylation and perhaps participation in some form of noncoded protein synthesis might have occurred. However, the identity of the first tRNA and the initial steps in the origin of the genetic code remain elusive. RESULTS: Here we show evidence that glycine tRNA was the first tRNA, as revealed by a vestigial imprint in the anticodon loop sequences of contemporary descendents. This provides a plausible mechanism for the missing first step in the origin of the genetic code. In 448 of 466 glycine tRNA gene sequences from bacteria, archaea and eukaryote cytoplasm analyzed, CCA occurs immediately upstream of the canonical intron insertion position, suggesting the first anticodon (NCC for glycine) has been captured from the 3'-terminal CCA of one of the interacting hairpins as a result of an ancestral ligation. CONCLUSION: That this imprint (including the second and third nucleotides of the glycine tRNA anticodon) has been retained through billions of years of evolution suggests Crick's 'frozen accident' hypothesis has validity for at least this very first step at the dawn of the genetic code. REVIEWERS: This article was reviewed by Dr Eugene V. Koonin, Dr Rob Knight and Dr David H Ardell.
+FAU:['Bernhardt, Harold S', 'Tate, Warren P']
+AU:['Bernhardt HS', 'Tate WP']
+AD:Department of Biochemistry, Otago School of Medical Sciences, University of Otago, Dunedin, New Zealand. berha498@student.otago.ac.nz
+LA:['eng']
+PT:['Journal Article', "Research Support, Non-U.S. Gov't"]
+DEP:20081217
+PL:England
+TA:Biol Direct
+JT:Biology direct
+JID:101258412
+RN:['0 (Amino Acids)', '0 (Anticodon)', '0 (RNA, Transfer, Amino Acyl)']
+SB:IM
+MH:['Amino Acids/genetics', 'Aminoacylation/genetics', 'Anticodon/genetics', 'Archaea/genetics', 'Bacteria/genetics', 'Base Sequence', 'Consensus Sequence', 'Eukaryotic Cells/metabolism', '*Evolution, Molecular', '*Genetic Code', 'Introns/genetics', 'Molecular Sequence Data', 'Nucleic Acid Conformation', 'Phylogeny', 'RNA, Transfer, Amino Acyl/chemistry/*genetics']
+PMC:PMC2630981
+OID:['NLM: PMC2630981']
+EDAT:2008/12/19 09:00
+MHDA:2009/04/09 09:00
+CRDT:['2008/12/19 09:00']
+PHST:['2008/11/26 [received]', '2008/12/17 [accepted]']
+AID:['1745-6150-3-53 [pii]', '10.1186/1745-6150-3-53 [doi]']
+PST:epublish
+SO:Biol Direct. 2008 Dec 17;3:53. doi: 10.1186/1745-6150-3-53.
+9
+PMID:19063902
+OWN:NLM
+STAT:MEDLINE
+DA:20090119
+DCOM:20090204
+LR:20131121
+IS:1089-8638 (Electronic) 0022-2836 (Linking)
+VI:385
+IP:4
+DP:2009 Jan 30
+TI:Specificity of pyrrolysyl-tRNA synthetase for pyrrolysine and pyrrolysine analogs.
+PG:1156-64
+LID:10.1016/j.jmb.2008.11.032 [doi]
+AB:Pyrrolysine, the 22nd amino acid, is encoded by amber (TAG=UAG) codons in certain methanogenic archaea and bacteria. PylS, the pyrrolysyl-tRNA synthetase, ligates pyrrolysine to tRNA(Pyl) for amber decoding as pyrrolysine. PylS and tRNA(Pyl) have potential utility in making tailored recombinant proteins. Here, we probed interactions necessary for recognition of substrates by archaeal PylS via synthesis of close pyrrolysine analogs and testing their reactivity in amino acid activation assays. Replacement of the methylpyrroline ring of pyrrolysine with cyclopentane indicated that solely hydrophobic interactions with the ring-binding pocket of PylS are sufficient for substrate recognition. However, a 100-fold increase in the specificity constant of PylS was observed with an analog, 2-amino-6-((R)-tetrahydrofuran-2-carboxamido)hexanoic acid (2Thf-lys), in which tetrahydrofuran replaced the pyrrolysine methylpyrroline ring. Other analogs in which the electronegative atom was moved to different positions suggested PylS preference for a hydrogen-bond-accepting group at the imine nitrogen position in pyrrolysine. 2Thf-lys was a preferred substrate over a commonly employed pyrrolysine analog, but the specificity constant for 2Thf-lys was 10-fold lower than for pyrrolysine itself, largely due to the change in K(m). The in vivo activity of the analogs in supporting UAG suppression in Escherichia coli bearing genes for PylS and tRNA(Pyl) was similar to in vitro results, with L-pyrrolysine and 2Thf-lys supporting the highest amounts of UAG translation. Increasing concentrations of either PylS substrate resulted in a linear increase in UAG suppression, providing a facile method to assay bioactive pyrrolysine analogs. These results illustrate the relative importance of the H-bonding and hydrophobic interactions in the recognition of the methylpyrroline ring of pyrrolysine and provide a promising new series of easily synthesized pyrrolysine analogs that can serve as scaffolds for the introduction of novel functional groups into recombinant proteins.
+FAU:['Li, Wen-Tai', 'Mahapatra, Anirban', 'Longstaff, David G', 'Bechtel, Jonathan', 'Zhao, Gang', 'Kang, Patrick T', 'Chan, Michael K', 'Krzycki, Joseph A']
+AU:['Li WT', 'Mahapatra A', 'Longstaff DG', 'Bechtel J', 'Zhao G', 'Kang PT', 'Chan MK', 'Krzycki JA']
+AD:Department of Chemistry, The Ohio State University, Columbus, OH 43210, USA.
+LA:['eng']
+GR:['GM070663/GM/NIGMS NIH HHS/United States', 'GM61796/GM/NIGMS NIH HHS/United States']
+PT:['Journal Article', 'Research Support, N.I.H., Extramural']
+DEP:20081125
+PL:England
+TA:J Mol Biol
+JT:Journal of molecular biology
+JID:2985088R
+RN:['0 (Caproates)', '0 (Codon, Terminator)', '0 (pyrrolysine)', '8L70Q75FXE (Adenosine Triphosphate)', 'EC 6.1.1.- (Amino Acyl-tRNA Synthetases)', 'K3Z4F929H6 (Lysine)']
+SB:IM
+MH:['Adenosine Triphosphate/metabolism', 'Amino Acyl-tRNA Synthetases/*metabolism', 'Caproates/chemistry', 'Codon, Terminator/genetics', 'Escherichia coli', 'Kinetics', 'Lysine/*analogs & derivatives/chemistry/metabolism', 'Methanosarcina barkeri/*enzymology', 'Substrate Specificity', 'Suppression, Genetic', 'Transfer RNA Aminoacylation']
+EDAT:2008/12/10 09:00
+MHDA:2009/02/05 09:00
+CRDT:['2008/12/10 09:00']
+PHST:['2008/07/29 [received]', '2008/11/13 [revised]', '2008/11/14 [accepted]']
+AID:['S0022-2836(08)01458-7 [pii]', '10.1016/j.jmb.2008.11.032 [doi]']
+PST:ppublish
+SO:J Mol Biol. 2009 Jan 30;385(4):1156-64. doi: 10.1016/j.jmb.2008.11.032. Epub 2008 Nov 25.
+10
+PMID:19022179
+OWN:NLM
+STAT:MEDLINE
+DA:20081121
+DCOM:20090206
+LR:20131121
+IS:1879-1301 (Electronic) 1074-5521 (Linking)
+VI:15
+IP:11
+DP:2008 Nov 24
+TI:Multistep engineering of pyrrolysyl-tRNA synthetase to genetically encode N(epsilon)-(o-azidobenzyloxycarbonyl) lysine for site-specific protein modification.
+PG:1187-97
+LID:10.1016/j.chembiol.2008.10.004 [doi]
+AB:Pyrrolysyl-tRNA synthetase (PylRS) esterifies pyrrolysine to tRNA(Pyl). In this study, N(epsilon)-(tert-butyloxycarbonyl)-L-lysine (BocLys) and N(epsilon)-allyloxycarbonyl-L-lysine (AlocLys) were esterified to tRNA(Pyl) by PylRS. Crystal structures of a PylRS catalytic fragment complexed with BocLys and an ATP analog and with AlocLys-AMP revealed that PylRS requires an N(epsilon)-carbonyl group bearing a substituent with a certain size. A PylRS(Y384F) mutant obtained by random screening exhibited higher in vitro aminoacylation and in vivo amber suppression activities with BocLys, AlocLys, and pyrrolysine than those of the wild-type PylRS. Furthermore, the structure-based Y306A mutation of PylRS drastically increased the in vitro aminoacylation activity for N(epsilon)-benzyloxycarbonyl-L-lysine (ZLys). A PylRS with both the Y306A and Y384F mutations enabled the large-scale preparation (>10 mg per liter medium) of proteins site-specifically containing N(epsilon)-(o-azidobenzyloxycarbonyl)-L-lysine (AzZLys). The AzZLys-containing protein was labeled with a fluorescent probe, by Staudinger ligation.
+FAU:['Yanagisawa, Tatsuo', 'Ishii, Ryohei', 'Fukunaga, Ryuya', 'Kobayashi, Takatsugu', 'Sakamoto, Kensaku', 'Yokoyama, Shigeyuki']
+AU:['Yanagisawa T', 'Ishii R', 'Fukunaga R', 'Kobayashi T', 'Sakamoto K', 'Yokoyama S']
+AD:Systems and Structural Biology Center, Yokohama Institute, RIKEN, 1-7-22 Suehiro-cho, Tsurumi, Yokohama 230-0045, Japan.
+LA:['eng']
+SI:['PDB/2ZIN', 'PDB/2ZIO']
+PT:['Journal Article']
+PL:United States
+TA:Chem Biol
+JT:Chemistry & biology
+JID:9500160
+RN:['0 (Azides)', '0 (Fluorescent Dyes)', '0 (Mutant Proteins)', '0 (N(epsilon)-(2-azidobenzyloxycarbonyl)lysine)', '0 (pyrrolysine)', '8L70Q75FXE (Adenosine Triphosphate)', '9014-25-9 (RNA, Transfer)', 'EC 6.1.1.6 (Lysine-tRNA Ligase)', 'K3Z4F929H6 (Lysine)']
+SB:IM
+MH:['Adenosine Triphosphate/metabolism', 'Amino Acid Sequence', 'Aminoacylation', '*Azides', 'Catalytic Domain', 'Crystallography, X-Ray', 'Esterification', 'Fluorescent Dyes/metabolism', 'Genes, Suppressor', 'Lysine/*analogs & derivatives/metabolism', 'Lysine-tRNA Ligase/chemistry/*genetics/*metabolism', 'Methanosarcina/*enzymology', 'Mutagenesis, Site-Directed/*methods', 'Mutant Proteins/chemistry/genetics/metabolism', 'Point Mutation', 'RNA, Transfer/metabolism']
+EDAT:2008/11/22 09:00
+MHDA:2009/02/07 09:00
+CRDT:['2008/11/22 09:00']
+PHST:['2008/03/07 [received]', '2008/09/04 [revised]', '2008/10/02 [accepted]']
+AID:['S1074-5521(08)00406-7 [pii]', '10.1016/j.chembiol.2008.10.004 [doi]']
+PST:ppublish
+SO:Chem Biol. 2008 Nov 24;15(11):1187-97. doi: 10.1016/j.chembiol.2008.10.004.
+11
+PMID:19020078
+OWN:NLM
+STAT:MEDLINE
+DA:20081210
+DCOM:20090130
+LR:20161019
+IS:1091-6490 (Electronic) 0027-8424 (Linking)
+VI:105
+IP:49
+DP:2008 Dec 09
+TI:CP1-dependent partitioning of pretransfer and posttransfer editing in leucyl-tRNA synthetase.
+PG:19223-8
+LID:10.1073/pnas.0809336105 [doi]
+AB:Mistranslation is toxic to bacterial and mammalian cells and can lead to neurodegeneration in the mouse. Mistranslation is caused by the attachment of the wrong amino acid to a specific tRNA. Many aminoacyl-tRNA synthetases have an editing activity that deacylates the mischarged amino acid before capture by the elongation factor and transport to the ribosome. For class I tRNA synthetases, the editing activity is encoded by the CP1 domain, which is distinct from the active site for aminoacylation. What is not clear is whether the enzymes also have an editing activity that is separable from CP1. A point mutation in CP1 of class I leucyl-tRNA synthetase inactivates deacylase activity and produces misacylated tRNA. In contrast, although deletion of the entire CP1 domain also disabled the deacylase activity, the deletion-bearing enzyme produced no mischarged tRNA. Further investigation showed that a second tRNA-dependent activity prevented misacylation and is intrinsic to the active site for aminoacylation.
+FAU:['Boniecki, Michal T', 'Vu, Michael T', 'Betha, Aswini K', 'Martinis, Susan A']
+AU:['Boniecki MT', 'Vu MT', 'Betha AK', 'Martinis SA']
+AD:Department of Biochemistry, University of Illinois at Urbana-Champaign, 600 South Mathews Avenue, Urbana, IL 61802, USA.
+LA:['eng']
+GR:['R01 GM063107/GM/NIGMS NIH HHS/United States', 'R01 GM063789/GM/NIGMS NIH HHS/United States', 'GM63107/GM/NIGMS NIH HHS/United States', 'GM63789/GM/NIGMS NIH HHS/United States']
+PT:['Journal Article', 'Research Support, N.I.H., Extramural']
+DEP:20081119
+PL:United States
+TA:Proc Natl Acad Sci U S A
+JT:Proceedings of the National Academy of Sciences of the United States of America
+JID:7505876
+RN:['0 (RNA, Transfer, Amino Acyl)', 'EC 6.1.1.4 (Leucine-tRNA Ligase)']
+SB:IM
+CIN:['Proc Natl Acad Sci U S A. 2008 Dec 9;105(49):19031-2. PMID: 19057010']
+MH:['Escherichia coli/*enzymology/*genetics', 'Leucine-tRNA Ligase/chemistry/*genetics/*metabolism', 'Point Mutation', '*Protein Biosynthesis', 'Protein Structure, Tertiary', 'RNA, Transfer, Amino Acyl/metabolism', 'Transfer RNA Aminoacylation']
+PMC:PMC2614743
+OID:['NLM: PMC2614743']
+EDAT:2008/11/21 09:00
+MHDA:2009/01/31 09:00
+CRDT:['2008/11/21 09:00']
+AID:['0809336105 [pii]', '10.1073/pnas.0809336105 [doi]']
+PST:ppublish
+SO:Proc Natl Acad Sci U S A. 2008 Dec 9;105(49):19223-8. doi: 10.1073/pnas.0809336105. Epub 2008 Nov 19.
+12
+PMID:19015366
+OWN:NLM
+STAT:MEDLINE
+DA:20081225
+DCOM:20090420
+LR:20140902
+IS:1098-6596 (Electronic) 0066-4804 (Linking)
+VI:53
+IP:1
+DP:2009 Jan
+TI:Inhibition of methionyl-tRNA synthetase by REP8839 and effects of resistance mutations on enzyme activity.
+PG:86-94
+LID:10.1128/AAC.00275-08 [doi]
+AB:REP8839 is a selective inhibitor of methionyl-tRNA synthetase (MetRS) with antibacterial activity against a variety of gram-positive organisms. We determined REP8839 potency against Staphylococcus aureus MetRS and assessed its selectivity for bacterial versus human orthologs of MetRS. The inhibition constant (K(i)) of REP8839 was 10 pM for Staphylococcus aureus MetRS. Inhibition of MetRS by REP8839 was competitive with methionine and uncompetitive with ATP. Thus, high physiological ATP levels would actually facilitate optimal binding of the inhibitor. While many gram-positive bacteria, such as Staphylococcus aureus, express exclusively the MetRS1 subtype, many gram-negative bacteria express an alternative homolog called MetRS2. Some gram-positive bacteria, such as Streptococcus pneumoniae and Bacillus anthracis, express both MetRS1 and MetRS2. MetRS2 orthologs were considerably less susceptible to REP8839 inhibition. REP8839 inhibition of human mitochondrial MetRS was 1,000-fold weaker than inhibition of Staphylococcus aureus MetRS; inhibition of human cytoplasmic MetRS was not detectable, corresponding to >1,000,000-fold selectivity for the bacterial target relative to its cytoplasmic counterpart. Mutations in MetRS that confer reduced susceptibility to REP8839 were examined. The mutant MetRS enzymes generally exhibited substantially impaired catalytic activity, particularly in aminoacylation turnover rates. REP8839 K(i) values ranged from 4- to 190,000-fold higher for the mutant enzymes than for wild-type MetRS. These observations provide a potential mechanistic explanation for the reduced growth fitness observed with MetRS mutant strains relative to that with wild-type Staphylococcus aureus.
+FAU:['Green, Louis S', 'Bullard, James M', 'Ribble, Wendy', 'Dean, Frank', 'Ayers, David F', 'Ochsner, Urs A', 'Janjic, Nebojsa', 'Jarvis, Thale C']
+AU:['Green LS', 'Bullard JM', 'Ribble W', 'Dean F', 'Ayers DF', 'Ochsner UA', 'Janjic N', 'Jarvis TC']
+AD:Replidyne, Inc, Louisville, CO 80027, USA.
+LA:['eng']
+PT:['Journal Article']
+DEP:20081117
+PL:United States
+TA:Antimicrob Agents Chemother
+JT:Antimicrobial agents and chemotherapy
+JID:0315061
+RN:['0 (Anti-Bacterial Agents)', '0 (Diamines)', '0 (REP8839)', '0 (Thiophenes)', '8L70Q75FXE (Adenosine Triphosphate)', 'AE28F7PNPL (Methionine)', 'EC 6.1.1.10 (Methionine-tRNA Ligase)']
+SB:IM
+MH:['Adenosine Triphosphate/metabolism', 'Anti-Bacterial Agents/chemistry/pharmacology', 'Diamines/chemistry/*pharmacology', 'Humans', 'Methionine/metabolism', 'Methionine-tRNA Ligase/*antagonists & inhibitors/*genetics/metabolism', 'Molecular Structure', 'Mutation', 'Staphylococcus aureus/drug effects/enzymology/genetics', 'Structure-Activity Relationship', 'Thiophenes/chemistry/*pharmacology']
+PMC:PMC2612134
+OID:['NLM: PMC2612134']
+EDAT:2008/11/19 09:00
+MHDA:2009/04/21 09:00
+CRDT:['2008/11/19 09:00']
+AID:['AAC.00275-08 [pii]', '10.1128/AAC.00275-08 [doi]']
+PST:ppublish
+SO:Antimicrob Agents Chemother. 2009 Jan;53(1):86-94. doi: 10.1128/AAC.00275-08. Epub 2008 Nov 17.
+13
+PMID:19014993
+OWN:NLM
+STAT:MEDLINE
+DA:20090223
+DCOM:20090414
+LR:20090223
+IS:1638-6183 (Electronic) 0300-9084 (Linking)
+VI:91
+IP:3
+DP:2009 Mar
+TI:On the role of an unusual tRNAGly isoacceptor in Staphylococcus aureus.
+PG:344-51
+LID:10.1016/j.biochi.2008.10.009 [doi]
+AB:In the available Staphylococcus aureus genomes, four different genes have been annotated to encode tRNA(Gly) isoacceptors. Besides their prominent role in protein synthesis, some of them also participate in the formation of pentaglycine bridges during cell wall synthesis. However, until today, it is not known how many and which of them are actually involved in this essential procedure. In the present study we identified, apart from the four annotated tRNA(Gly) genes, a putative pseudogene which encodes and expresses an unusual fifth tRNA(Gly) isoacceptor in S. aureus (as detected via RT-PCR and subsequent direct sequencing analysis). All the in vitro transcribed tRNA(Gly) molecules (including the "pseudogene-encoded" tRNA(Gly)) can be efficiently aminoacylated by the recombinant S. aureus glycyl-tRNA synthetase. Furthermore, bioinformatic analysis suggests that the "pseudo"-tRNA(Gly(UCC)) identified in the present study and two of the annotated isoacceptors bearing the same anticodon carry specific sequence elements that do not favour the strong interaction with EF-Tu that proteinogenic tRNAs would promote. This observation was verified by the differential capacity of Gly-tRNA(Gly) molecules to form ternary complexes with activated S. aureus EF-Tu.GTP. These tRNA(Gly) molecules display high sequence similarities with their S. epidermidis orthologs which also actively participate in cell wall synthesis. Both bioinformatic and biochemical data suggest that in S. aureus these three glycylated tRNA(Gly) isoacceptors that are weak EF-Tu binders, possibly escape protein synthesis and serve as glycine donors for the formation of pentaglycine bridges that are essential for stabilization of the staphylococcal cell wall.
+FAU:['Giannouli, Stamatina', 'Kyritsis, Athanasios', 'Malissovas, Nikolaos', 'Becker, Hubert Dominique', 'Stathopoulos, Constantinos']
+AU:['Giannouli S', 'Kyritsis A', 'Malissovas N', 'Becker HD', 'Stathopoulos C']
+AD:Department of Biochemistry & Biotechnology, University of Thessaly, 26 Ploutonos St, 41221 Larissa, Greece.
+LA:['eng']
+PT:['Journal Article', "Research Support, Non-U.S. Gov't"]
+DEP:20081026
+PL:France
+TA:Biochimie
+JT:Biochimie
+JID:1264604
+RN:['0 (Anticodon)', '0 (RNA, Transfer, Gly)', '0 (Recombinant Proteins)', 'EC 3.6.1.- (Peptide Elongation Factor Tu)', 'EC 6.1.1.14 (Glycine-tRNA Ligase)']
+SB:IM
+MH:['Anticodon/metabolism', 'Computational Biology/methods', 'Genes, Bacterial', 'Glycine-tRNA Ligase/genetics/*metabolism', 'Peptide Elongation Factor Tu/metabolism', 'RNA, Transfer, Gly/*genetics/*metabolism', 'Recombinant Proteins/metabolism', 'Sequence Analysis, RNA', 'Staphylococcus aureus/*genetics/*metabolism', 'Transfer RNA Aminoacylation/genetics']
+EDAT:2008/11/19 09:00
+MHDA:2009/04/15 09:00
+CRDT:['2008/11/19 09:00']
+PHST:['2008/09/24 [received]', '2008/10/16 [accepted]']
+AID:['S0300-9084(08)00282-4 [pii]', '10.1016/j.biochi.2008.10.009 [doi]']
+PST:ppublish
+SO:Biochimie. 2009 Mar;91(3):344-51. doi: 10.1016/j.biochi.2008.10.009. Epub 2008 Oct 26.
+14
+PMID:18997014
+OWN:NLM
+STAT:MEDLINE
+DA:20081121
+DCOM:20081217
+LR:20170220
+IS:1091-6490 (Electronic) 0027-8424 (Linking)
+VI:105
+IP:46
+DP:2008 Nov 18
+TI:RNA-assisted catalysis in a protein enzyme: The 2'-hydroxyl of tRNA(Thr) A76 promotes aminoacylation by threonyl-tRNA synthetase.
+PG:17748-53
+LID:10.1073/pnas.0804247105 [doi]
+AB:Aminoacyl-tRNA synthetases (aaRSs) join amino acids to 1 of 2 terminal hydroxyl groups of their cognate tRNAs, thereby contributing to the overall fidelity of protein synthesis. In class II histidyl-tRNA synthetase (HisRS) the nonbridging S(p)-oxygen of the adenylate is a potential general base for aminoacyl transfer. To test for conservation of this mechanism in other aaRSs and the role of terminal hydroxyls of tRNA in aminoacyl transfer, we investigated the class II Escherichia coli threonyl-tRNA synthetase (ThrRS). As with other class II aaRSs, the rate-determining step for ThrRS is amino acid activation. In ThrRS, however, the 2'-OH of A76 of tRNA(Thr) and a conserved active-site histidine (His-309) collaborate to catalyze aminoacyl transfer by a mechanism distinct from HisRS. Conserved residues in the ThrRS active site were replaced with alanine, and then the resulting mutant proteins were analyzed by steady-state and rapid kinetics. Nearly all mutants preferentially affected the amino acid activation step, with only a modest effect on aminoacyl transfer. By contrast, H309A ThrRS decreased transfer 242-fold and imposed a kinetic block to CCA accommodation. His-309 hydrogen bonds to the 2'-OH of A76, and substitution of the latter by hydrogen or fluorine decreased aminoacyl transfer by 763- and 94-fold, respectively. The proton relay mechanism suggested by these data to promote aminoacylation is reminiscent of the NAD(+)-dependent mechanisms of alcohol dehydrogenases and sirtuins and the RNA-mediated catalysis of the ribosomal peptidyl transferase center.
+FAU:['Minajigi, Anand', 'Francklyn, Christopher S']
+AU:['Minajigi A', 'Francklyn CS']
+AD:Cell and Molecular Biology Program, College of Medicine, Health Sciences Complex, 89 Beaumont Avenue, University of Vermont, Burlington, VT 05405, USA.
+LA:['eng']
+GR:['R01 GM054899/GM/NIGMS NIH HHS/United States', 'GM54899/GM/NIGMS NIH HHS/United States']
+PT:['Journal Article', 'Research Support, N.I.H., Extramural']
+DEP:20081107
+PL:United States
+TA:Proc Natl Acad Sci U S A
+JT:Proceedings of the National Academy of Sciences of the United States of America
+JID:7505876
+RN:['0 (Mutant Proteins)', '0 (RNA, Transfer, Thr)', '3352-57-6 (Hydroxyl Radical)', '4QD397987E (Histidine)', 'EC 6.1.1.3 (Threonine-tRNA Ligase)']
+SB:IM
+MH:['*Aminoacylation', 'Catalysis', 'Catalytic Domain', 'DNA Mutational Analysis', 'Escherichia coli/*enzymology', 'Histidine/metabolism', 'Hydroxyl Radical/*metabolism', 'Kinetics', 'Models, Molecular', 'Mutant Proteins/metabolism', 'RNA, Transfer, Thr/*metabolism', 'Threonine-tRNA Ligase/*metabolism']
+PMC:PMC2584683
+OID:['NLM: PMC2584683']
+EDAT:2008/11/11 09:00
+MHDA:2008/12/18 09:00
+CRDT:['2008/11/11 09:00']
+AID:['0804247105 [pii]', '10.1073/pnas.0804247105 [doi]']
+PST:ppublish
+SO:Proc Natl Acad Sci U S A. 2008 Nov 18;105(46):17748-53. doi: 10.1073/pnas.0804247105. Epub 2008 Nov 7.
+15
+PMID:18956885
+OWN:NLM
+STAT:MEDLINE
+DA:20090220
+DCOM:20090316
+LR:20161124
+IS:1520-4995 (Electronic) 0006-2960 (Linking)
+VI:47
+IP:47
+DP:2008 Nov 25
+TI:Post-translational modifications guard yeast from misaspartylation.
+PG:12476-82
+LID:10.1021/bi8009295 [doi]
+AB:Yeast aspartyl-tRNA synthetase (AspRS) is downregulated at the post-transcriptional level. This complex retro-inhibition mechanism causes the cell to equilibrate cellular concentrations of tRNAAsp, AspRS, and its encoding mRNA. This strategy hinders AspRS accumulation to keep misacylation of heterologous tRNAs under control. Here, the AspRS concentration was increased artificially in vivo but did not generate tRNAAsn and/or tRNAGlu misaspartylation or the logical consecutive post-translational stress. This work allowed the detection of an additional subtle cellular lock capable of blocking AspRS toxicity. This study revealed the presence of post-translational modifications in the N-terminal extension of AspRS. We hypothesize that by neutralizing the lysine-rich motif contained in this domain, the cell mobilizes an additional strategy that considerably reduces the probability of the enzyme binding and aspartylating noncognate tRNAs and thus harming its own translation.
+FAU:['Ryckelynck, Michael', 'Paulus, Caroline A', 'Frugier, Magali']
+AU:['Ryckelynck M', 'Paulus CA', 'Frugier M']
+AD:ISIS-ULP, Laboratoire de Biologie Chimique, Strasbourg, France.
+LA:['eng']
+PT:['Journal Article', "Research Support, Non-U.S. Gov't"]
+PL:United States
+TA:Biochemistry
+JT:Biochemistry
+JID:0370623
+RN:['0 (Gentamicins)', '0 (Proteome)', '30KYC7MIAI (Aspartic Acid)', '6SO6U10H04 (Biotin)', 'A08F5XTI6G (antibiotic G 418)', 'EC 6.1.1.12 (Aspartate-tRNA Ligase)', 'K3Z4F929H6 (Lysine)']
+SB:IM
+MH:['Amino Acid Sequence', 'Aminoacylation', 'Aspartate-tRNA Ligase/chemistry/genetics/*metabolism/toxicity', 'Aspartic Acid/*metabolism', 'Biotin/metabolism', 'Gene Expression', 'Gentamicins/pharmacology', 'Glycosylation', 'Lysine/metabolism', 'Mass Spectrometry', 'Methylation', 'Models, Molecular', 'Molecular Sequence Data', 'Protein Conformation', '*Protein Processing, Post-Translational', 'Proteome', 'Saccharomyces cerevisiae/cytology/drug effects/*metabolism']
+EDAT:2008/10/30 09:00
+MHDA:2009/03/17 09:00
+CRDT:['2008/10/30 09:00']
+AID:['10.1021/bi8009295 [doi]']
+PST:ppublish
+SO:Biochemistry. 2008 Nov 25;47(47):12476-82. doi: 10.1021/bi8009295.
+16
+PMID:18931432
+OWN:NLM
+STAT:MEDLINE
+DA:20081020
+DCOM:20081205
+LR:20170220
+IS:1744-3091 (Electronic) 1744-3091 (Linking)
+VI:64
+IP:Pt 10
+DP:2008 Oct 01
+TI:Crystallization and preliminary crystallographic studies of putative threonyl-tRNA synthetases from Aeropyrum pernix and Sulfolobus tokodaii.
+PG:903-10
+LID:10.1107/S1744309108026924 [doi]
+AB:Threonyl-tRNA synthetase (ThrRS) plays an essential role in protein synthesis by catalyzing the aminoacylation of tRNA(Thr) and editing misacylation. ThrRS generally contains an N-terminal editing domain, a catalytic domain and an anticodon-binding domain. The sequences of the editing domain in ThrRSs from archaea differ from those in bacteria and eukaryotes. Furthermore, several creanarchaea including Aeropyrum pernix K1 and Sulfolobus tokodaii strain 7 contain two genes encoding either the catalytic or the editing domain of ThrRS. To reveal the structural basis for this evolutionary divergence, the two types of ThrRS from the crenarchaea A. pernix and S. tokodaii have been overexpressed in Eschericha coli, purified and crystallized by the hanging-drop vapour-diffusion method. Diffraction data were collected and the structure of a selenomethionine-labelled A. pernix type-1 ThrRS crystal has been solved using the MAD method.
+FAU:['Shimizu, Satoru', 'Juan, Ella Czarina Magat', 'Miyashita, Yu Ichiro', 'Sato, Yoshiteru', 'Hoque, Md Mominul', 'Suzuki, Kaoru', 'Yogiashi, Masataka', 'Tsunoda, Masaru', 'Dock-Bregeon, Anne Catherine', 'Moras, Dino', 'Sekiguchi, Takeshi', 'Takenaka, Akio']
+AU:['Shimizu S', 'Juan EC', 'Miyashita YI', 'Sato Y', 'Hoque MM', 'Suzuki K', 'Yogiashi M', 'Tsunoda M', 'Dock-Bregeon AC', 'Moras D', 'Sekiguchi T', 'Takenaka A']
+AD:Graduate School of Bioscience and Biotechnology, Tokyo Institute of Technology, Nagatsuda, Midori-ku, Yokohama 226-8501, Japan.
+LA:['eng']
+PT:['Journal Article', "Research Support, Non-U.S. Gov't"]
+DEP:20080930
+PL:England
+TA:Acta Crystallogr Sect F Struct Biol Cryst Commun
+JT:Acta crystallographica. Section F, Structural biology and crystallization communications
+JID:101226117
+RN:['0 (Archaeal Proteins)', 'EC 6.1.1.3 (Threonine-tRNA Ligase)']
+SB:IM
+MH:['Aeropyrum/*enzymology', 'Amino Acid Sequence', 'Archaeal Proteins/*chemistry/isolation & purification', 'Crystallization', 'Crystallography, X-Ray/methods', 'Models, Molecular', 'Protein Conformation', 'Species Specificity', 'Sulfolobus/*enzymology', 'Threonine-tRNA Ligase/*chemistry/isolation & purification']
+PMC:PMC2564875
+OID:['NLM: PMC2564875']
+EDAT:2008/10/22 09:00
+MHDA:2008/12/17 09:00
+CRDT:['2008/10/22 09:00']
+PHST:['2008/05/09 [received]', '2008/08/20 [accepted]']
+AID:['S1744309108026924 [pii]', '10.1107/S1744309108026924 [doi]']
+PST:ppublish
+SO:Acta Crystallogr Sect F Struct Biol Cryst Commun. 2008 Oct 1;64(Pt 10):903-10. doi: 10.1107/S1744309108026924. Epub 2008 Sep 30.
+17
+PMID:18850722
+OWN:NLM
+STAT:MEDLINE
+DA:20081105
+DCOM:20081231
+LR:20161122
+IS:1520-4995 (Electronic) 0006-2960 (Linking)
+VI:47
+IP:45
+DP:2008 Nov 11
+TI:DNA polymerases and aminoacyl-tRNA synthetases: shared mechanisms for ensuring the fidelity of gene expression.
+PG:11695-703
+LID:10.1021/bi801500z [doi]
+AB:DNA polymerases and aminoacyl-tRNA synthetases (ARSs) represent large enzyme families with critical roles in the transformation of genetic information from DNA to RNA to protein. DNA polymerases carry out replication and collaborate in the repair of the genome, while ARSs provide aminoacylated tRNA precursors for protein synthesis. Enzymes of both families face the common challenge of selecting their cognate small molecule substrates from a pool of chemically related molecules, achieving high levels of discrimination with the assistance of proofreading mechanisms. Here, the fidelity preservation mechanisms in these two important systems are reviewed and similar features highlighted. Among the noteworthy features common to both DNA polymerases and ARSs are the use of multidomain architectures that segregate synthetic and proofreading functions into discrete domains; the use of induced fit to enhance binding selectivity; the imposition of fidelity at the level of chemistry; and the use of postchemistry error correction mechanisms to hydrolyze incorrect products in a discrete editing domain. These latter mechanisms further share the common property that error correction involves the translocation of misincorporated products from the synthetic to the editing site and that the accuracy of the process may be influenced by the rates of translocation in either direction. Fidelity control in both families can thus be said to rely on multiple elementary steps, each with its contribution to overall fidelity. The summed contribution of these kinetic checkpoints provides the high observed overall accuracy of DNA replication and aminoacylation.
+FAU:['Francklyn, Christopher S']
+AU:['Francklyn CS']
+AD:Department of Biochemistry, Department of Microbiology, College of Medicine, University of Vermont, Burlington, Vermont 05405, USA. Christopher.Francklyn@uvm.edu
+LA:['eng']
+GR:['R01 GM054899/GM/NIGMS NIH HHS/United States', 'R01 GM054899-11/GM/NIGMS NIH HHS/United States', 'GM54899/GM/NIGMS NIH HHS/United States']
+PT:['Journal Article', 'Research Support, N.I.H., Extramural', 'Review']
+DEP:20081014
+PL:United States
+TA:Biochemistry
+JT:Biochemistry
+JID:0370623
+RN:['EC 2.7.7.7 (DNA-Directed DNA Polymerase)', 'EC 6.1.1.- (Amino Acyl-tRNA Synthetases)']
+SB:IM
+MH:['Amino Acyl-tRNA Synthetases/chemistry/*metabolism', 'DNA Replication', 'DNA-Directed DNA Polymerase/chemistry/*metabolism', 'Models, Biological', 'Models, Molecular', 'Protein Biosynthesis']
+RF:75
+PMC:PMC2638074
+MID:['NIHMS86411']
+OID:['NLM: NIHMS86411', 'NLM: PMC2638074']
+EDAT:2008/10/15 09:00
+MHDA:2009/01/01 09:00
+CRDT:['2008/10/15 09:00']
+AID:['10.1021/bi801500z [doi]']
+PST:ppublish
+SO:Biochemistry. 2008 Nov 11;47(45):11695-703. doi: 10.1021/bi801500z. Epub 2008 Oct 14.
+18
+PMID:18835817
+OWN:NLM
+STAT:MEDLINE
+DA:20081201
+DCOM:20090204
+LR:20170220
+IS:0021-9258 (Print) 0021-9258 (Linking)
+VI:283
+IP:49
+DP:2008 Dec 05
+TI:A disease-causing point mutation in human mitochondrial tRNAMet rsults in tRNA misfolding leading to defects in translational initiation and elongation.
+PG:34445-56
+LID:10.1074/jbc.M806992200 [doi]
+AB:The mitochondrial tRNA genes are hot spots for mutations that lead to human disease. A single point mutation (T4409C) in the gene for human mitochondrial tRNA(Met) (hmtRNA(Met)) has been found to cause mitochondrial myopathy. This mutation results in the replacement of U8 in hmtRNA(Met) with a C8. The hmtRNA(Met) serves both in translational initiation and elongation in human mitochondria making this tRNA of particular interest in mitochondrial protein synthesis. Here we show that the single 8U-->C mutation leads to a failure of the tRNA to respond conformationally to Mg(2+). This mutation results in a drastic disruption of the structure of the hmtRNA(Met), which significantly reduces its aminoacylation. The small fraction of hmtRNA(Met) that can be aminoacylated is not formylated by the mitochondrial Met-tRNA transformylase preventing its function in initiation, and it is unable to form a stable ternary complex with elongation factor EF-Tu preventing any participation in chain elongation. We have used structural probing and molecular reconstitution experiments to examine the structures formed by the normal and mutated tRNAs. In the presence of Mg(2+), the normal tRNA displays the structural features expected of a tRNA. However, even in the presence of Mg(2+), the mutated tRNA does not form the cloverleaf structure typical of tRNAs. Thus, we believe that this mutation has disrupted a critical Mg(2+)-binding site on the tRNA required for formation of the biologically active structure. This work establishes a foundation for understanding the physiological consequences of the numerous mitochondrial tRNA mutations that result in disease in humans.
+FAU:['Jones, Christie N', 'Jones, Christopher I', 'Graham, William D', 'Agris, Paul F', 'Spremulli, Linda L']
+AU:['Jones CN', 'Jones CI', 'Graham WD', 'Agris PF', 'Spremulli LL']
+AD:Department of Chemistry, University of North Carolina, Chapel Hill, North Carolina 27599, USA.
+LA:['eng']
+GR:['GM23037/GM/NIGMS NIH HHS/United States', 'GM32734/GM/NIGMS NIH HHS/United States']
+PT:['Journal Article', 'Research Support, N.I.H., Extramural', "Research Support, Non-U.S. Gov't", "Research Support, U.S. Gov't, Non-P.H.S."]
+DEP:20081003
+PL:United States
+TA:J Biol Chem
+JT:The Journal of biological chemistry
+JID:2985121R
+RN:['0 (RNA, Transfer, Met)']
+SB:IM
+MH:['Animals', 'Base Sequence', 'Binding Sites', 'Cattle', 'Escherichia coli/enzymology', 'Humans', 'Mitochondria/enzymology/*metabolism', 'Mutation', 'Nucleic Acid Conformation', 'Nucleic Acid Denaturation', 'Optic Atrophy, Hereditary, Leber/genetics', '*Point Mutation', 'Protein Biosynthesis', 'RNA, Transfer, Met/*chemistry', 'Thermodynamics']
+PMC:PMC2590712
+OID:['NLM: PMC2590712']
+EDAT:2008/10/07 09:00
+MHDA:2009/02/05 09:00
+CRDT:['2008/10/07 09:00']
+AID:['M806992200 [pii]', '10.1074/jbc.M806992200 [doi]']
+PST:ppublish
+SO:J Biol Chem. 2008 Dec 5;283(49):34445-56. doi: 10.1074/jbc.M806992200. Epub 2008 Oct 3.
+19
+PMID:18820594
+OWN:NLM
+STAT:MEDLINE
+DA:20081114
+DCOM:20090306
+LR:20161124
+IS:1744-6872 (Print) 1744-6872 (Linking)
+VI:18
+IP:12
+DP:2008 Dec
+TI:Mitochondrial tRNAThr G15927A mutation may modulate the phenotypic manifestation of ototoxic 12S rRNA A1555G mutation in four Chinese families.
+PG:1059-70
+LID:10.1097/FPC.0b013e3283131661 [doi]
+AB:OBJECTIVE: To investigate the role of mitochondrial modifiers in the development of deafness associated with 12S rRNA A1555G mutation. METHODS: Four Chinese families with nonsyndromic and aminoglycoside-induced deafness were studied by clinical and genetic evaluation, molecular and biochemical analyses of mitochondrial DNA (mtDNA). RESULTS: These families exhibited high penetrance and expressivity of hearing impairment. Penetrances of hearing loss in WZD31, WZD32, WZD33, and WZD34 pedigrees ranged from 50 to 67% and from 39 to 50%, respectively, when aminoglycoside-induced hearing loss was included or excluded. Matrilineal relatives in these families developed hearing loss at the average of 14, 13, 16, and 15 years of age, respectively, when aminoglycoside-induced deafness was excluded. Mutational analysis of entire mtDNA in these families showed the homoplasmic A1555G mutation and distinct sets of variants belonging to haplogroup B5b1. Of these, the tRNA G15927A mutation locates at the fourth base in the anticodon stem (conventional position 42) of tRNA. A guanine (G42) at this position of tRNA is highly conserved from bacteria to human mitochondria. The lower levels and altered electrophoretic mobility of tRNA were observed in cells carrying A1555G and G15927A mutations or only G15927A mutation but not cells carrying only A1555G mutation. The abolished base pairing (28C-42G) of this tRNA by the G15927A mutation caused a failure in tRNA metabolism, worsening the mitochondrial dysfunctions altered by the A1555G mutation. CONCLUSION: The G15927A mutation has a potential modifier role in increasing the penetrance and expressivity of the deafness-associated 12S rRNA A1555G mutation in those Chinese pedigrees.
+FAU:['Wang, Xinjian', 'Lu, Jianxin', 'Zhu, Yi', 'Yang, Aifen', 'Yang, Li', 'Li, Ronghua', 'Chen, Bobei', 'Qian, Yaping', 'Tang, Xiaowen', 'Wang, Jindan', 'Zhang, Xue', 'Guan, Min-Xin']
+AU:['Wang X', 'Lu J', 'Zhu Y', 'Yang A', 'Yang L', 'Li R', 'Chen B', 'Qian Y', 'Tang X', 'Wang J', 'Zhang X', 'Guan MX']
+AD:Division of Human Genetics, Cincinnati Children's Hospital Medical Center Cincinnati, Ohio 45229-3039, USA.
+LA:['eng']
+GR:['R01 DC007696-03/DC/NIDCD NIH HHS/United States', 'R01 DC007696/DC/NIDCD NIH HHS/United States', 'R01 DC005230-05/DC/NIDCD NIH HHS/United States', 'R01 DC005230/DC/NIDCD NIH HHS/United States', 'R01 DC005230-04/DC/NIDCD NIH HHS/United States', 'R01DC07696/DC/NIDCD NIH HHS/United States', 'R01DC05230/DC/NIDCD NIH HHS/United States']
+PT:['Journal Article', 'Research Support, N.I.H., Extramural', "Research Support, Non-U.S. Gov't"]
+PL:United States
+TA:Pharmacogenet Genomics
+JT:Pharmacogenetics and genomics
+JID:101231005
+RN:['0 (Aminoglycosides)', '0 (Connexins)', '0 (Mitochondrial Proteins)', '0 (RNA, Ribosomal)', '0 (RNA, Transfer, Thr)', '0 (RNA, ribosomal, 12S)', '127120-53-0 (Connexin 26)', '5Z93L87A1R (Guanine)', 'EC 2.1.1.- (tRNA Methyltransferases)', 'EC 2.1.1.61 (TRMU protein, human)', 'JAC85A2161 (Adenine)']
+SB:IM
+MH:['Adenine', 'Aminoacylation', 'Aminoglycosides/adverse effects', 'Asian Continental Ancestry Group/*genetics', 'Base Sequence', 'Cell Line', 'China', 'Connexin 26', 'Connexins/genetics', 'DNA Mutational Analysis', 'Deafness/chemically induced/*genetics', 'Family', 'Female', 'Genome, Mitochondrial/genetics', 'Guanine', 'Hearing Tests', 'Humans', 'Male', 'Mitochondria/*genetics', 'Mitochondrial Proteins/genetics', 'Molecular Sequence Data', 'Mutation/*genetics', 'Nucleic Acid Conformation', 'Pedigree', 'Phenotype', 'RNA, Ribosomal/*genetics', 'RNA, Transfer, Thr/chemistry/*genetics', 'tRNA Methyltransferases/genetics']
+PMC:PMC2905378
+MID:['NIHMS214169']
+OID:['NLM: NIHMS214169', 'NLM: PMC2905378']
+EDAT:2008/09/30 09:00
+MHDA:2009/03/07 09:00
+CRDT:['2008/09/30 09:00']
+AID:['10.1097/FPC.0b013e3283131661 [doi]']
+PST:ppublish
+SO:Pharmacogenet Genomics. 2008 Dec;18(12):1059-70. doi: 10.1097/FPC.0b013e3283131661.
+20
+PMID:18818520
+OWN:NLM
+STAT:MEDLINE
+DA:20090213
+DCOM:20090320
+LR:20131121
+IS:1555-8584 (Electronic) 1547-6286 (Linking)
+VI:5
+IP:3
+DP:2008 Jul-Sep
+TI:Crystallographic and mutational studies of seryl-tRNA synthetase from the archaeon Pyrococcus horikoshii.
+PG:169-77
+AB:Seryl-tRNA synthetase (SerRS) catalyzes the ligation of serine to the 3'-end of serine tRNA (tRNA(Ser)), which is typical of the type-2 tRNAs characterized by a long extra arm. The SerRSs are divided into two types, the archaeal/eukaryal and bacterial types. In this study, we solved the crystal structures of the SerRS from the archaeon Pyrococcus horikoshii bound with 5'-O-[N-(L-seryl)-sulfamoyl]-adenosine at 2.6 A and with ATP at 2.8 A, as well as in the apo form at 3.0 A. P. horikoshii SerRS recognizes the seryl and adenylate moieties in a manner similar to those of the bacterial and mitochondrial SerRSs from Thermus thermophilus and Bos taurus, respectively, but different from that of the unusual SerRS from the methanogenic archaeon Methanosarcina barkeri. P. horikoshii SerRS efficiently aminoacylated not only P. horikoshii tRNA(Ser) but also bacterial tRNA(Ser)s from T. thermophilus and Escherichia coli. Models of P. horikoshii SerRS bound with the T. thermophilus and P. horikoshii tRNA(Ser)s suggested that the helical domain of P. horikoshii SerRS is involved in the extra arm binding. This region of P. horikoshii SerRS has additional basic residues as compared with T. thermophilus SerRS, and a Trp residue specific to the archaeal/eukaryal SerRSs. Mutational analyses revealed that the basic and Trp residues are important for tRNA aminoacylation. P. horikoshii SerRS has the archaea-specific insertion, which collaborates with the core domain to form a basic channel leading to the active site. Two sulfate ions are bound to the channel, suggesting that the tRNA 3' region might bind to the channel.
+FAU:['Itoh, Yuzuru', 'Sekine, Shun-ichi', 'Kuroishi, Chizu', 'Terada, Takaho', 'Shirouzu, Mikako', 'Kuramitsu, Seiki', 'Yokoyama, Shigeyuki']
+AU:['Itoh Y', 'Sekine S', 'Kuroishi C', 'Terada T', 'Shirouzu M', 'Kuramitsu S', 'Yokoyama S']
+AD:Department of Biophysics and Biochemistry, Graduate School of Science, The University of Tokyo, Bunkyo-ku, Tokyo, Japan.
+LA:['eng']
+PT:['Journal Article', "Research Support, Non-U.S. Gov't"]
+DEP:20080728
+PL:United States
+TA:RNA Biol
+JT:RNA biology
+JID:101235328
+RN:['0 (RNA, Transfer, Amino Acyl)', '8L70Q75FXE (Adenosine Triphosphate)', 'EC 6.1.1.11 (Serine-tRNA Ligase)', 'SU46BAM238 (Ammonium Sulfate)']
+SB:IM
+MH:['Adenosine Triphosphate/metabolism', 'Amino Acid Sequence', 'Ammonium Sulfate/pharmacology', 'Base Sequence', 'Crystallography, X-Ray', 'DNA Mutational Analysis', 'Escherichia coli/enzymology', 'Kinetics', 'Models, Molecular', 'Molecular Sequence Data', 'Nucleic Acid Conformation', 'Pyrococcus horikoshii/drug effects/*enzymology', 'RNA, Transfer, Amino Acyl/chemistry/genetics', 'Sequence Alignment', 'Serine-tRNA Ligase/*chemistry/*genetics', 'Substrate Specificity/drug effects', 'Thermus thermophilus/enzymology', 'Transfer RNA Aminoacylation/drug effects']
+EDAT:2008/09/27 09:00
+MHDA:2009/03/21 09:00
+CRDT:['2008/09/27 09:00']
+AID:['6876 [pii]']
+PST:ppublish
+SO:RNA Biol. 2008 Jul-Sep;5(3):169-77. Epub 2008 Jul 28.

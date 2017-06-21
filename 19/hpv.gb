@@ -1,0 +1,399 @@
+LOCUS       LG143642                1518 bp    DNA     linear   PAT 01-FEB-2017
+DEFINITION  KR 1020160021344-A/14: HPV standard materials for evaluating the
+            analysis of HPV genotyping.
+ACCESSION   LG143642
+VERSION     LG143642.1
+KEYWORDS    KR 1020160021344-A/14.
+SOURCE      unidentified
+  ORGANISM  unidentified
+            unclassified sequences.
+REFERENCE   1  (bases 1 to 1518)
+  AUTHORS   Rhee,J.E., Kim,S.S., Kee,M.K., Hong,S.R., Jeong,M.S., Seo,H.H. and
+            Kim,T.J.
+  TITLE     HPV standard materials for evaluating the analysis of HPV
+            genotyping
+  JOURNAL   Patent: KR 1020160021344-A 14 25-FEB-2016;
+            Korea Center for Disease Control and Prevention|Cheil General
+            Hospital & Women&quot;s Healthcare Center
+COMMENT     KN   KR 1020140105893-A/14
+            AN   KR 1020140105893
+            AD   2014-08-14
+            PN   KR 1020160021344
+            PD   2016-02-25
+            AT   HPV standard materials for evaluating the analysis of HPV
+            AT   genotyping
+            AI   Rhee, Jee Eun|Kim, Sung Soon|Kee, Mee Kyung|Hong, Sung
+            AI   Ran|Jeong, Mi Seon|Seo, Hyun Hee|Kim, Tae Jin
+            AA   Korea Center for Disease Control and Prevention|Cheil General
+            AA   Hospital & Women's Healthcare Center
+            PR
+            OS   HPV standard for HPV 68b
+            TY   DNA
+            FH   Key     Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..1518
+                     /organism="unidentified"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:32644"
+ORIGIN      
+        1 atggcattgt ggcgctctag cgacaacatg gtgtatttgc ctcccccctc agtggcgaag
+       61 gttgtcaata cagatgatta cgtaacacgc actggcattt attattatgc tggtacatct
+      121 aggttattaa ctgtaggcca tccatatttt aaggtcccta tgtctggggg ccgcaagcag
+      181 gacattccta aggtgtctgc atatcaatac agggtgttta gggtttccct acctgatcct
+      241 aataaattta gtcttcctga gtctacatta tataaccctg atacgcagcg attggtatgg
+      301 gcctgtgttg gtgttgaaat aggtaggggg cagccattag gtgttggcct tagtgggcat
+      361 ccattatata ataggctaga tgatactgaa aattccccgt tttcctctaa caaaaatcct
+      421 aaggacagta gggacaatgt ttcagtggac tataaacaaa cgcaactatg tattataggc
+      481 tgtgttcctg ccattgggga gcactgggcc aaaggtaaat cttgtaagcc taacaatgtg
+      541 cagcccgggg actgtccacc attagaatta gtaaatacac ctattcagga tggcgatatg
+      601 attgatacag gatatggtgc tatggacttt agtacattac aagaaacaaa aagcgaggtg
+      661 cctttagata tatgtcaatc ggtctgcaaa tatcctgact atttacaaat gtctgcagat
+      721 gtctatgggg acagtatgtt tttttgttta cgtagggaac agttatttgc taggcatttt
+      781 tggaatagag ggggcatggt aggggacact attcctactg aattgtatat taagggcact
+      841 gacatacgtg acagtcctag tagttatgtg tatgccccct cgcctagtgg gtctatggta
+      901 tcctcagact cccagttatt taacaagccc tattggctgc acaaggcaca aggacacaac
+      961 aatggtattt gttggcataa tcaattattt cttactgttg tggataccac tcgcagtact
+     1021 aattttactt tgtctactac tactgaatca gctgtaccaa atatttatga tcctaataaa
+     1081 tttaaggaat atgttaggca tgttgaggaa tatgatttgc aattcatatt tcagttgtgt
+     1141 actataacat tgtcaactga tgtaatgtcc tatatacata ctatgaatcc tgctatttta
+     1201 gatgattgga attttggtgt tgcccctccg ccatctgcta gtcttgtaga tacataccgc
+     1261 tatctgcaat cagcagcaat tacatgtcag aaagacgccc ctgcacctac taaaaaggat
+     1321 ccatatgatg gcctaaactt ttggaatgta aatttaaagg aaaagtttag ttctgaactg
+     1381 gaccagtttc ctttaggacg caaatttctt ttacaggcag gtgtccgccg acgacccact
+     1441 ataggccccc gcaaacgccc tgccacagca cctactgcat ctacctctaa gcacaaacgt
+     1501 aaacgtgtgt caaagtaa
+//
+
+LOCUS       LG143641                1512 bp    DNA     linear   PAT 01-FEB-2017
+DEFINITION  KR 1020160021344-A/13: HPV standard materials for evaluating the
+            analysis of HPV genotyping.
+ACCESSION   LG143641
+VERSION     LG143641.1
+KEYWORDS    KR 1020160021344-A/13.
+SOURCE      unidentified
+  ORGANISM  unidentified
+            unclassified sequences.
+REFERENCE   1  (bases 1 to 1512)
+  AUTHORS   Rhee,J.E., Kim,S.S., Kee,M.K., Hong,S.R., Jeong,M.S., Seo,H.H. and
+            Kim,T.J.
+  TITLE     HPV standard materials for evaluating the analysis of HPV
+            genotyping
+  JOURNAL   Patent: KR 1020160021344-A 13 25-FEB-2016;
+            Korea Center for Disease Control and Prevention|Cheil General
+            Hospital & Women&quot;s Healthcare Center
+COMMENT     KN   KR 1020140105893-A/13
+            AN   KR 1020140105893
+            AD   2014-08-14
+            PN   KR 1020160021344
+            PD   2016-02-25
+            AT   HPV standard materials for evaluating the analysis of HPV
+            AT   genotyping
+            AI   Rhee, Jee Eun|Kim, Sung Soon|Kee, Mee Kyung|Hong, Sung
+            AI   Ran|Jeong, Mi Seon|Seo, Hyun Hee|Kim, Tae Jin
+            AA   Korea Center for Disease Control and Prevention|Cheil General
+            AA   Hospital & Women's Healthcare Center
+            PR
+            OS   HPV standard for HPV 66
+            TY   DNA
+            FH   Key     Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..1512
+                     /organism="unidentified"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:32644"
+ORIGIN      
+        1 atggcgatgt ggcggcctag tgacaataag gtgtacctac ctccaacacc tgtttcaaag
+       61 gttgtggcaa cggatacata tgtaaaacgt accagtatat tttatcatgc aggtagctct
+      121 aggttgcttg ctgttggcca tccttattac tctgtttcca aatctggtac caaaacaaac
+      181 atccctaaag ttagtgcata tcagtataga gtgtttaggg tacggttgcc tgatcctaat
+      241 aagtttggcc ttcctgatcc atctttctat aatcctgacc aggaacgttt ggtatgggcc
+      301 tgtgtaggtt tggaggtagg ccgaggtcaa cctttaggtg ctgggttaag tggtcatcca
+      361 ttatttaata ggctggatga cactgaggtc tctaatttag caggtaataa tgttatagaa
+      421 gatagccggg acaatatatc tgttgattgt aaacaaaccc agttatgtat tgtgggatgt
+      481 gcaccagcat taggggaaca ttggactaag ggcgcggtgt gtaagtctac accaggtaat
+      541 acaggggatt gtccacctct tgcattagtt aataccccga tagaggacgg tgacatggtg
+      601 gacaccgggt ttggtgcaat ggactttaag ctattacagg aatcaaaggc tgaggtgcca
+      661 ttggacattg tacaatctac atgtaaatat cctgattatt taaaaatgtc tgcagatgcc
+      721 tatggggatt ctatgtggtt ttacttacgc agggaacaat tgtttgccag acattacttt
+      781 aatagggcag gtaatgttgg ggaagccatt cctacagatt tgtattggaa gggtggcaat
+      841 ggcagggacc ctcctcccag ttctgtatat gttgctactc ctagtgggtc catgattacc
+      901 tctgaggccc aattatttaa taaaccttat tggttgcaac gtgcacaggg ccataataat
+      961 ggcatatgct ggggtaatca ggtatttgtt actgttgtgg atactaccag aagcaccaac
+     1021 atgactatta atgcagctaa aagcacatta actaaatatg atgcccgtga aatcaatcaa
+     1081 taccttcgcc atgtggagga atatgaacta cagtttgtgt ttcaactttg taaaataacc
+     1141 ttaactgcag aagttatggc atatttgcat aatatgaata atactttatt agacgattgg
+     1201 aatattggct tatccccacc agttgcaact agcttagagg ataaatatag gtatattaaa
+     1261 agcacagcta ttacatgtca gagggaacag ccccctgcag aaaagcagga tcccctggct
+     1321 aaatataagt tttgggaagt taatttacag gacagctttt ctgcagacct ggatcagttt
+     1381 cctttgggta gaaaattttt aatgcaacta ggccctagac cccctagacc caaggctagt
+     1441 gtatctgcct ctaaaaggcg ggcggctcct acctcttcct cttcttcacc agctaaacgt
+     1501 aaaaaacgat ag
+//
+
+LOCUS       LG143640                1527 bp    DNA     linear   PAT 01-FEB-2017
+DEFINITION  KR 1020160021344-A/12: HPV standard materials for evaluating the
+            analysis of HPV genotyping.
+ACCESSION   LG143640
+VERSION     LG143640.1
+KEYWORDS    KR 1020160021344-A/12.
+SOURCE      unidentified
+  ORGANISM  unidentified
+            unclassified sequences.
+REFERENCE   1  (bases 1 to 1527)
+  AUTHORS   Rhee,J.E., Kim,S.S., Kee,M.K., Hong,S.R., Jeong,M.S., Seo,H.H. and
+            Kim,T.J.
+  TITLE     HPV standard materials for evaluating the analysis of HPV
+            genotyping
+  JOURNAL   Patent: KR 1020160021344-A 12 25-FEB-2016;
+            Korea Center for Disease Control and Prevention|Cheil General
+            Hospital & Women&quot;s Healthcare Center
+COMMENT     KN   KR 1020140105893-A/12
+            AN   KR 1020140105893
+            AD   2014-08-14
+            PN   KR 1020160021344
+            PD   2016-02-25
+            AT   HPV standard materials for evaluating the analysis of HPV
+            AT   genotyping
+            AI   Rhee, Jee Eun|Kim, Sung Soon|Kee, Mee Kyung|Hong, Sung
+            AI   Ran|Jeong, Mi Seon|Seo, Hyun Hee|Kim, Tae Jin
+            AA   Korea Center for Disease Control and Prevention|Cheil General
+            AA   Hospital & Women's Healthcare Center
+            PR
+            OS   HPV standard for HPV 59
+            TY   DNA
+            FH   Key     Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..1527
+                     /organism="unidentified"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:32644"
+ORIGIN      
+        1 atggctctat ggcgttctag tgacaacaag gtgtatctac ctccaccttc ggtagctaag
+       61 gttgtcagca ctgatgagta tgtcacccgt accagtattt tctaccacgc aggcagttcc
+      121 agacttctta cagttggaca tccatatttt aaagtaccta aaggtggtaa tggtagacag
+      181 gatgttccta aggtgtctgc atatcaatac agagtattta gggttaagtt acctgatccc
+      241 aataaatttg gccttccaga taacacagta tatgatccta actctcaacg cttggtctgg
+      301 gcctgtgtag gtgttgaaat cggtcggggc caacctttag gggtaggact cagtggtcat
+      361 ccattatata ataaattgga tgacactgaa aactctcatg tagcatctgc tgttgatacc
+      421 aaagatacac gtgataatgt atctgtggat tataaacaaa ctcagctgtg tattattggc
+      481 tgtgtacctg ccattggaga acactggaca aagggcactg cttgtaagcc tactactgtg
+      541 gttcagggcg attgtcctcc actagaatta ataaatacac caattgaaga tggtgatatg
+      601 gtagacacag gatatggggc tatggacttt aaattgttgc aggataacaa aagtgaagta
+      661 ccattggata tttgtcagtc tatttgtaaa tatcctgatt atttacaaat gtcagcagat
+      721 gcttatggag acagtatgtt tttttgttta aggcgagaac aggtttttgc cagacatttt
+      781 tggaatagat ctggtactat gggtgatcaa cttcctgaat cactatatat taaaggtact
+      841 gacatacgtg ccaacccagg cagttattta tattcccctt ccccaagtgg gtctgtggtt
+      901 acttctgatt cacaattatt taataaacca tattggctgc acaaggctca gggtttaaac
+      961 aatggtatat gttggcacaa tcaattgttt ttaacagttg tagatactac tcgcagcacc
+     1021 aatctttctg tgtgtgcttc tactacttct tctattccta atgtatacac acctaccagt
+     1081 tttaaagaat atgccagaca tgtggaggaa tttgatttgc agtttatatt tcaactgtgt
+     1141 aaaataacat taactacaga ggtaatgtca tacattcata atatgaatac cactattttg
+     1201 gaggattgga attttggtgt tacaccacct cctactgcta gtttagttga cacataccgt
+     1261 tttgttcaat ctgctgctgt aacttgtcaa aaggacaccg caccgccagt taaacaggac
+     1321 ccttatgaca aactaaagtt ttggcctgta gatcttaagg aaaggttttc tgcagatctt
+     1381 gatcagtttc ctttgggacg taaattttta ttgcaattag gagctagacc taagcccact
+     1441 ataggcccac gcaaacgtgc agcgcccgcc cctacctcta ccccatcacc aaaacgtgtt
+     1501 aagcgtcgca agtcttccag aaaatag
+//
+
+LOCUS       LG143639                1575 bp    DNA     linear   PAT 01-FEB-2017
+DEFINITION  KR 1020160021344-A/11: HPV standard materials for evaluating the
+            analysis of HPV genotyping.
+ACCESSION   LG143639
+VERSION     LG143639.1
+KEYWORDS    KR 1020160021344-A/11.
+SOURCE      unidentified
+  ORGANISM  unidentified
+            unclassified sequences.
+REFERENCE   1  (bases 1 to 1575)
+  AUTHORS   Rhee,J.E., Kim,S.S., Kee,M.K., Hong,S.R., Jeong,M.S., Seo,H.H. and
+            Kim,T.J.
+  TITLE     HPV standard materials for evaluating the analysis of HPV
+            genotyping
+  JOURNAL   Patent: KR 1020160021344-A 11 25-FEB-2016;
+            Korea Center for Disease Control and Prevention|Cheil General
+            Hospital & Women&quot;s Healthcare Center
+COMMENT     KN   KR 1020140105893-A/11
+            AN   KR 1020140105893
+            AD   2014-08-14
+            PN   KR 1020160021344
+            PD   2016-02-25
+            AT   HPV standard materials for evaluating the analysis of HPV
+            AT   genotyping
+            AI   Rhee, Jee Eun|Kim, Sung Soon|Kee, Mee Kyung|Hong, Sung
+            AI   Ran|Jeong, Mi Seon|Seo, Hyun Hee|Kim, Tae Jin
+            AA   Korea Center for Disease Control and Prevention|Cheil General
+            AA   Hospital & Women's Healthcare Center
+            PR
+            OS   HPV standard for HPV 58
+            TY   DNA
+            FH   Key     Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..1575
+                     /organism="unidentified"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:32644"
+ORIGIN      
+        1 atggtgctga ttttatgttg caccctagct attttatttt gcgtcgcaga cgtaaacgtt
+       61 ttccatattt ttttgcagat gtccgtgtgg cggcctagtg aggccactgt gtacctgcct
+      121 cctgtgcctg tgtctaaggt tgtaagcact gatgaatatg tgtcacgcac aagcatttat
+      181 tattatgctg gcagttccag acttttggct gttggcaatc catatttttc catcaaaagt
+      241 cccaataaca ataaaaaagt attagttccc aaggtatcag gcttacagta tagggtcttt
+      301 agggtgcgtt tacctgatcc caataaattt ggttttcctg atacatcttt ttataaccct
+      361 gatacacaac gtttggtctg ggcatgtgta ggccttgaaa taggtagggg acagccattg
+      421 ggtgttggcg taggtggtca tccttattta aataaatttg atgacactga aaccagtaac
+      481 agatatcccg cacagccagg gtctgataac agggaatgct tatctatgga ttataaacaa
+      541 acacaattat gtttaattgg ctgtaaacct cccactggtg agcattgggg taaaggtgtt
+      601 gcctgtaaca ataatgcagc tgctactgat tgtcctccat tggaactttt taattctatt
+      661 attgaggatg gtgacatggt agatacaggg tttggatgca tggactttgg tacattgcag
+      721 gctaataaaa gtgatgtgcc tattgatatt tgtaacagta catgcaaata tccagattat
+      781 ttaaaaatgg ccagtgaacc ttatggggat agtttgttct tttttcttag acgtgagcag
+      841 atgtttgtta gacacttttt taatagggct ggaaaacttg gcgaggctgt cccggatgac
+      901 ctttatatta aagggtccgg taatactgca gttatccaaa gtagtgcatt ttttccaact
+      961 cctagtggct ctatagttac ctcagaatca caattattta ataagcctta ttggctacag
+     1021 cgtgcacaag gtcataacaa tggcatttgc tggggcaatc agttatttgt taccgtggtt
+     1081 gataccactc gtagcactaa tatgacatta tgcactgaag taactaagga aggtacatat
+     1141 aaaaatgata attttaagga atatgtacgt catgttgaag aatatgactt acagtttgtt
+     1201 tttcagcttt gcaaaattac actaactgca gagataatga catatataca tactatggat
+     1261 tccaatattt tggaggactg gcaatttggt ttaacacctc ctccgtctgc cagtttacag
+     1321 gacacatata gatttgttac ctcccaggct attacttgcc aaaaaacagc accccctaaa
+     1381 gaaaaggaag atccattaaa taaatatact ttttgggagg ttaacttaaa ggaaaagttt
+     1441 tctgcagatc tagatcagtt tcctttggga cgaaagtttt tattacaatc aggccttaaa
+     1501 gcaaagccca gactaaaacg ttcggcccct actacccgtg caccatccac caaacgcaaa
+     1561 aaggttaaaa aataa
+//
+
+LOCUS       LG143638                1605 bp    DNA     linear   PAT 01-FEB-2017
+DEFINITION  KR 1020160021344-A/10: HPV standard materials for evaluating the
+            analysis of HPV genotyping.
+ACCESSION   LG143638
+VERSION     LG143638.1
+KEYWORDS    KR 1020160021344-A/10.
+SOURCE      unidentified
+  ORGANISM  unidentified
+            unclassified sequences.
+REFERENCE   1  (bases 1 to 1605)
+  AUTHORS   Rhee,J.E., Kim,S.S., Kee,M.K., Hong,S.R., Jeong,M.S., Seo,H.H. and
+            Kim,T.J.
+  TITLE     HPV standard materials for evaluating the analysis of HPV
+            genotyping
+  JOURNAL   Patent: KR 1020160021344-A 10 25-FEB-2016;
+            Korea Center for Disease Control and Prevention|Cheil General
+            Hospital & Women&quot;s Healthcare Center
+COMMENT     KN   KR 1020140105893-A/10
+            AN   KR 1020140105893
+            AD   2014-08-14
+            PN   KR 1020160021344
+            PD   2016-02-25
+            AT   HPV standard materials for evaluating the analysis of HPV
+            AT   genotyping
+            AI   Rhee, Jee Eun|Kim, Sung Soon|Kee, Mee Kyung|Hong, Sung
+            AI   Ran|Jeong, Mi Seon|Seo, Hyun Hee|Kim, Tae Jin
+            AA   Korea Center for Disease Control and Prevention|Cheil General
+            AA   Hospital & Women's Healthcare Center
+            PR
+            OS   HPV standard for HPV 56
+            TY   DNA
+            FH   Key     Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..1605
+                     /organism="unidentified"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:32644"
+ORIGIN      
+        1 atgatgttac ccatgatgta tatatacagg gatcctcctt tgcattatgg cctgtgtatt
+       61 tttttagacg taggcgccgt aaacgtattc cctatttttt tgcagatggc gacgtggcgg
+      121 cctagtgaaa ataaggtgta tctacctcca acacctgttt caaaggttgt ggcaacggat
+      181 tcctatgtaa aacgcactag tatattttat catgcaggca gttcacgatt gcttgccgta
+      241 ggacatccct attactctgt gactaagaac aataccaaaa caaacattcc caaagttagt
+      301 gcatatcaat atagggtatt tagggtacgg ttgcccgacc ctaataagtt tgggcttcca
+      361 gatactaata tttatgatcc ggaccaggaa cggttagtgt gggcatgtgt aggtttggag
+      421 gtaggccgcg gacagccttt aggtgctggg ctaagtggcc atccattgtt taataggctg
+      481 gatgatactg aaagttccaa tttagcaaat aataatgtta tagaagatag tagggacaat
+      541 atatcagttg atggcaatca aacacagttg tgtattgttg gatgtactcc cgctatgggt
+      601 gaacattgga ctaaaggtgc tgtgtgtaag tccacacaag ttaccacagg ggactgcccg
+      661 cctcttgcat taattaatac acctatagag gatggggaca tgatagacac aggatttggc
+      721 gctatggact ttaaggtgtt gcaggaatct aaggctgagg tacctttaga cattgtacaa
+      781 tccacctgta aatatcctga ctatttaaaa atgtctgcag atgcctatgg tgattctatg
+      841 tggttttact tacgcaggga ataattattt gccagacatt attttaatag ggctggtaaa
+      901 gttggggaaa caatacctgc agagttatat ttaaaaggta gcaatggtag agaaccccct
+      961 cctagttctg tatatgttgc tacgcctagt gggtctatga ttacgtctga ggcacagtta
+     1021 tttaataaac cttattggtt gcaacgtgcc caaggccata ataatggcat ttgctggggt
+     1081 aatcaattat ttgtgactgt agtagatact actagaagta ctaacatgac tattagtact
+     1141 gctacagaac agttaagtaa atatgatgca cgaaaaatta atcagtacct tagacatgtg
+     1201 gaggaatatg aattacaatt tgtttttcaa ttatgcaaaa ttactttgtc tgcagaggtt
+     1261 atggcatatt tacataatat gaatgctaac ctactggagg actggaatat tgggttatcc
+     1321 ccgccagtgg ccaccagcct agaagataaa tatagatatg ttagaagcac agctataaca
+     1381 tgtcaacggg aacagccacc aacagaaaaa caggacccat tagctaaata taaattttgg
+     1441 gatgttaact tacaggacag tttttctaca gacctggatc aatttccact gggtagaaaa
+     1501 tttttaatgc aactgggcac taggtcaaag cctgctgtag ctacctctaa aaagcgatct
+     1561 gctcctacct ccacctctac accagcaaaa cgtaaaaggc ggtag
+//
+
+LOCUS       LG143637                1590 bp    DNA     linear   PAT 01-FEB-2017
+DEFINITION  KR 1020160021344-A/9: HPV standard materials for evaluating the
+            analysis of HPV genotyping.
+ACCESSION   LG143637
+VERSION     LG143637.1
+KEYWORDS    KR 1020160021344-A/9.
+SOURCE      unidentified
+  ORGANISM  unidentified
+            unclassified sequences.
+REFERENCE   1  (bases 1 to 1590)
+  AUTHORS   Rhee,J.E., Kim,S.S., Kee,M.K., Hong,S.R., Jeong,M.S., Seo,H.H. and
+            Kim,T.J.
+  TITLE     HPV standard materials for evaluating the analysis of HPV
+            genotyping
+  JOURNAL   Patent: KR 1020160021344-A 9 25-FEB-2016;
+            Korea Center for Disease Control and Prevention|Cheil General
+            Hospital & Women&quot;s Healthcare Center
+COMMENT     KN   KR 1020140105893-A/9
+            AN   KR 1020140105893
+            AD   2014-08-14
+            PN   KR 1020160021344
+            PD   2016-02-25
+            AT   HPV standard materials for evaluating the analysis of HPV
+            AT   genotyping
+            AI   Rhee, Jee Eun|Kim, Sung Soon|Kee, Mee Kyung|Hong, Sung
+            AI   Ran|Jeong, Mi Seon|Seo, Hyun Hee|Kim, Tae Jin
+            AA   Korea Center for Disease Control and Prevention|Cheil General
+            AA   Hospital & Women's Healthcare Center
+            PR
+            OS   HPV standard for HPV 52
+            TY   DNA
+            FH   Key     Location/Qualifiers.
+FEATURES             Location/Qualifiers
+     source          1..1590
+                     /organism="unidentified"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:32644"
+ORIGIN      
+        1 atggtacaga ttttatttta catcctagtt attttttact acgtcgcagg cgtaaacgtt
+       61 ttccatattt ttttacagat gtccgtgtgg cggcctagtg aggccactgt gtacctgcct
+      121 cctgtacctg tctctaaggt tgtaagcact gatgagtatg tgtctcgcac aagcatctat
+      181 tattatgcag gcagttctcg attactaaca gtaggacatc cctatttttc tattaaaaac
+      241 accagtagtg gtaatggtaa aaaagtttta gttcccaagg tgtctggcct gcaatacagg
+      301 gtatttagaa ttaaattgcc ggaccctaat aaatttggtt ttccagatac atctttttat
+      361 aacccagaaa cccaaaggtt ggtgtgggcc tgtacaggct tggaaattgg taggggacag
+      421 cctttaggtg tgggtattag tgggcatcct ttattaaaca agtttgatga tactgaaacc
+      481 agtaacaaat atgctggtaa acctggtata gataataggg aatgtttatc tatggattat
+      541 aagcagactc agttatgcat tttaggatgc aaacctccta taggtgaaca ttggggtaag
+      601 ggaacccctt gtaataataa ttcaggaaat cctggggatt gtcctcccct acagctcatt
+      661 aacagtgtaa tacaggatgg ggacatggta gatacaggat ttggttgcat ggattttaat
+      721 accttgcaag ctagtaaaag tgatgtgccc attgatatat gtagcagtgt atgtaagtat
+      781 ccagattatt tgcaaatggc tagcgagcca tatggtgaca gtttgttctt ttttcttaga
+      841 cgtgagcaaa tgtttgttag acactttttt aatagggccg gtaccttagg tgaccctgtg
+      901 ccaggtgatt tatatataca agggtctaac tctggcaata ctgccactgt acaaagcagt
+      961 gctttttttc ctactcctag tggttctatg gtaacctcag aatcccaatt atttaataaa
+     1021 ccgtactggt tacaacgtgc gcagggccac aataatggca tatgttgggg caatcagttg
+     1081 tttgtcacag ttgtggatac cactcgtagc actaacatga ctttatgtgc tgaggttaaa
+     1141 aaggaaagca catataaaaa tgaaaatttt aaggaatacc ttcgtcatgg cgaggaattt
+     1201 gatttacaat ttatttttca attgtgcaaa attacattaa cagctgatgt tatgacatac
+     1261 attcataaga tggatgccac tattttagag gactggcaat ttggccttac cccaccaccg
+     1321 tctgcatctt tggaggacac atacagattt gtcacttcta ctgctataac ttgtcaaaaa
+     1381 aacacaccac ctaaaggaaa ggaagatcct ttaaaggact atatgttttg ggaggtggat
+     1441 ttaaaagaaa agttttctgc agatttagat cagtttcctt taggtaggaa gtttttgtta
+     1501 caggcagggc tacaggctag gcccaaacta aaacgccctg catcatcggc cccacgtacc
+     1561 tccacaaaga agaaaaaggt taaaaggtaa
+//
+

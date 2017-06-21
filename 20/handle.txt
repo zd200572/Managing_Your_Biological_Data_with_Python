@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>14132</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>971518807</Id>
+<Id>971518469</Id>
+<Id>971513682</Id>
+<Id>971510897</Id>
+<Id>971509846</Id>
+<Id>114811</Id>
+<Id>444318878</Id>
+<Id>444318876</Id>
+<Id>444318872</Id>
+<Id>444316744</Id>
+<Id>444316742</Id>
+<Id>444316728</Id>
+<Id>444315962</Id>
+<Id>444315756</Id>
+<Id>444315754</Id>
+<Id>444315752</Id>
+<Id>444315750</Id>
+<Id>444315748</Id>
+<Id>367035756</Id>
+<Id>367031292</Id>
+</IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>bacteriorhodopsin[All Fields]</Term>    <Field>All Fields</Field>    <Count>14132</Count>    <Explode>N</Explode>   </TermSet>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>bacteriorhodopsin[All Fields]</QueryTranslation></eSearchResult>

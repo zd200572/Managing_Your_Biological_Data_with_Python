@@ -1,0 +1,22 @@
+LOCUS       test                     334 bp    DNA              UNK 01-JAN-1980
+DEFINITION  test
+ACCESSION   test
+VERSION     test
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 >sp|p31946 |1433b_hum an 14-3-3  protein be ta/alpha o s=homo sap
+       61 iens gn=yw hab pe=1 s v=3
+mtmdks elvqkaklae qaeryddmaa amkavteqgh
+      121 elsneernll svayknvvga rrss
+wrvis sieqkterne kkqqmgkeyr ekieaelqdi
+      181 cndvlelldk ylipnatqpe skvfy
+lkmk gdyfrylsev asgdnkqttv snsqqayqea
+      241 feiskkemqp thpirlglal nfsvfy
+yei lnspekacsl aktafdeaia eldtlneesy
+      301 kdstlimqll rdnltlwtse nqgdegd
+ag egen
+//

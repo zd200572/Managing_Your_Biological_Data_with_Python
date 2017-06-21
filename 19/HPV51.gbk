@@ -1,0 +1,38 @@
+LOCUS       KC470283.1              1509 bp    DNA              UNK 01-JAN-1980
+DEFINITION  KC470283.1 Human papillomavirus type 68 isolate Qv33999, complete
+            genome
+ACCESSION   KC470283
+VERSION     KC470283.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atggcattgt ggcgctctag cgacaacatg gtgtatttgc ctcccccctc agtggcgaag
+       61 gttgtcaata cagatgatta cgtaacacgc actggcattt attactatgc tggtacatct
+      121 aggttattaa ctgtaggcca tccatatttt aaggtcccta tgtctggggg ccgcaagcag
+      181 gacattccta aggtgtctgc atatcaatac agggtgttta gggtttccct acctgatcct
+      241 aataaattta gtcttcctga gtctacatta tataaccctg atacgcagcg attggtatgg
+      301 gcctgtgttg gtgttgaaat aggtaggggg cagccattag gtgttggcct tagtgggcat
+      361 ccattatata ataggctaga tgatactgaa aattctccgt tttcctctaa cagaaatcct
+      421 aaggacagta gggacaatgt ttcagtggac tgtaaacaaa cgcaactatg tattataggc
+      481 tgtgttcctg ccattgggga gcactgggcc aaaggtaaat cttgtaagcc taacaatgtg
+      541 cagcccgggg actgtccacc attagaatta gtaaatacac ctatacagga tggcgatatg
+      601 attgatacag gatatggtgc tatggacttt agtacattac aagaaacaaa aagcgaggtg
+      661 cctttagata tatgtcaatc ggtctgcaaa tatcctgact atttacaaat gtctgcagat
+      721 gtctatggag acagtatgtt cttttgttta cgtagggaac agttatttgc taggcatttt
+      781 tggaatagag ggggcatggt aggggacact attcctactg aattgtatat taagggcact
+      841 gacatacgtg acagtcctag tagttatgta tatgccccct cgcctagtgg gtctatggta
+      901 tcctcagact cccagttatt taacaagccc tattggctgc acaaggcaca gggacacaac
+      961 aatggtattt gttggcataa tcaattattt cttactgttg tggataccac tcgcagtact
+     1021 aattttactt tgtctactac tactgaatca gctgtaccag atgtttatga tcctaataag
+     1081 tttaaggaat atattaggca tgttgaggaa tatgatttgc aattcatatt tcagttgtgt
+     1141 actataacat tgtcaactga tgtaatgtcc tatatacata ctatgaatcc tgctattttg
+     1201 gatgattgga attttggtgt tgcccctcca ccatctgcta gtcttgtaga tacataccgc
+     1261 tatctgcaat cagcagcaat tacatgtcga aaagacgccc ctgcacctac taaaaaggat
+     1321 ccatatgatg gcctaaactt ttggaatgta aatttaaagg aaaagtttag ttctgaactg
+     1381 gaccagtttc ctttaggacg caaatttctt ttacaggcag gtgtccgccg acgacccact
+     1441 ataggccccc gcaaacgccc tgccacagca actactgcat ctacctctaa gcacaaacgt
+     1501 aaacgtgtg
+//
