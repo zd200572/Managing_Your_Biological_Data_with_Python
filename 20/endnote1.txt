@@ -1,0 +1,20 @@
+[1] Liu H, Gauld JW. Substrate-assisted catalysis in the aminoacyl transfer mechanism of histidyl-tRNA synthetase: a density functional theory study.
+[2] Boiarshin KS, Kriklivyi IA, Tukalo MA. [tRNA-dependent editing of errors by prolyl-tRNA synthetase from bacteria Enterococcus faecalis].
+[3] Chernyakov I, Baker MA, Grayhack EJ, Phizicky EM. Chapter 11. Identification and analysis of tRNAs that are degraded in Saccharomyces cerevisiae due to lack of modifications.
+[4] Nozawa K, "ODonoghue P", Gundllapalli S, Araiso Y, Ishitani R, Umehara T, Soll D, Nureki O. Pyrrolysyl-tRNA synthetase-tRNA(Pyl) structure reveals the molecular basis of orthogonality.
+[5] Kobayashi T, Yanagisawa T, Sakamoto K, Yokoyama S. Recognition of non-alpha-amino substrates by pyrrolysyl-tRNA synthetase.
+[6] Sharma G, First EA. Thermodynamic analysis reveals a temperature-dependent change in the catalytic mechanism of bacillus stearothermophilus tyrosyl-tRNA synthetase.
+[7] Zaher HS, Green R. Quality control by the ribosome following peptide bond formation.
+[8] Bernhardt HS, Tate WP. Evidence from glycine transfer RNA of a frozen accident at the dawn of the genetic code.
+[9] Li WT, Mahapatra A, Longstaff DG, Bechtel J, Zhao G, Kang PT, Chan MK, Krzycki JA. Specificity of pyrrolysyl-tRNA synthetase for pyrrolysine and pyrrolysine analogs.
+[10] Yanagisawa T, Ishii R, Fukunaga R, Kobayashi T, Sakamoto K, Yokoyama S. Multistep engineering of pyrrolysyl-tRNA synthetase to genetically encode N(epsilon)-(o-azidobenzyloxycarbonyl) lysine for site-specific protein modification.
+[11] Boniecki MT, Vu MT, Betha AK, Martinis SA. CP1-dependent partitioning of pretransfer and posttransfer editing in leucyl-tRNA synthetase.
+[12] Green LS, Bullard JM, Ribble W, Dean F, Ayers DF, Ochsner UA, Janjic N, Jarvis TC. Inhibition of methionyl-tRNA synthetase by REP8839 and effects of resistance mutations on enzyme activity.
+[13] Giannouli S, Kyritsis A, Malissovas N, Becker HD, Stathopoulos C. On the role of an unusual tRNAGly isoacceptor in Staphylococcus aureus.
+[14] Minajigi A, Francklyn CS. RNA-assisted catalysis in a protein enzyme: The 2'-hydroxyl of tRNA(Thr) A76 promotes aminoacylation by threonyl-tRNA synthetase.
+[15] Ryckelynck M, Paulus CA, Frugier M. Post-translational modifications guard yeast from misaspartylation.
+[16] Shimizu S, Juan EC, Miyashita YI, Sato Y, Hoque MM, Suzuki K, Yogiashi M, Tsunoda M, Dock-Bregeon AC, Moras D, Sekiguchi T, Takenaka A. Crystallization and preliminary crystallographic studies of putative threonyl-tRNA synthetases from Aeropyrum pernix and Sulfolobus tokodaii.
+[17] Francklyn CS. DNA polymerases and aminoacyl-tRNA synthetases: shared mechanisms for ensuring the fidelity of gene expression.
+[18] Jones CN, Jones CI, Graham WD, Agris PF, Spremulli LL. A disease-causing point mutation in human mitochondrial tRNAMet rsults in tRNA misfolding leading to defects in translational initiation and elongation.
+[19] Wang X, Lu J, Zhu Y, Yang A, Yang L, Li R, Chen B, Qian Y, Tang X, Wang J, Zhang X, Guan MX. Mitochondrial tRNAThr G15927A mutation may modulate the phenotypic manifestation of ototoxic 12S rRNA A1555G mutation in four Chinese families.
+[20] Itoh Y, Sekine S, Kuroishi C, Terada T, Shirouzu M, Kuramitsu S, Yokoyama S. Crystallographic and mutational studies of seryl-tRNA synthetase from the archaeon Pyrococcus horikoshii.

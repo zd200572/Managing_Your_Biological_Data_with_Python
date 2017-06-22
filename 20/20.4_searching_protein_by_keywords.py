@@ -22,13 +22,9 @@ outf = open('protein_searching.gb', 'w')
 for id in id_list:
 	time.sleep(1)
 	handle = Entrez.efetch(db = 'protein', id = id, \
-		rettype = 'gb', retmode = 'xml')
-	records = Entrez.parse(handle)
-
-
-for record in records:
-	SeqIO.write(record, outf, 'genbank')###这样报错
-	'''
+		rettype = 'gb', retmode = 'text').read()
+	outf.write(handle)###这样报错()
+'''
 i = 0
 for record in records:
 	i += 1
